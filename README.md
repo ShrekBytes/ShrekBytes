@@ -126,7 +126,7 @@
 
 <table>
   <tr>
-    <td><strong>Coin (Network)</strong></td>
+    <td><strong>coin (network)</strong></td>
     <td>Address</td>
   </tr>
   <tr>
