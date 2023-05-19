@@ -134,7 +134,7 @@
     <td>0xDD016B921Cb19Df0231252F87d76cf76fC6193cd</td>
   </tr>
   <tr>
-    <td><strong>BNB:</strong></td>
+    <td><strong><img src="images/icons/bnb.png"/>BNB:</strong></td>
     <td>0xDD016B921Cb19Df0231252F87d76cf76fC6193cd</td>
   </tr>
   <tr>
