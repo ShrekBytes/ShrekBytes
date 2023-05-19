@@ -14,7 +14,12 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on improving myself.<br>🤝 I begrudgingly accept help but thrive on the challenge of suffering alone.<br>🌱 I’m currently learning automation and bug bounty.<br>🚀 I'm interested in collaborating on exciting projects.<br>🌐 Check out my portfolio website: jglf.SITE<br>⚡ Fun fact: Shrek Bytes is not my real name.</p>
+- 🔭 I’m currently working on improving myself.
+- 🤝 I begrudgingly accept help but thrive on the challenge of suffering alone.
+- 🌱 I’m currently learning automation and bug bounty.
+- 🚀 I'm interested in collaborating on exciting projects.
+- 🌐 Check out my portfolio website: [jglf.SITE](https://jglf.site)
+- ⚡ Fun fact: Shrek Bytes is not my real name.
 
 ###
 
