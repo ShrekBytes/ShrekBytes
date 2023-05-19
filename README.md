@@ -126,36 +126,20 @@
 
 <table>
   <tr>
-    <td style="min-width: 50px;">
-      <img src="images/icons/btc.png" alt="Bitcoin">
-    </td>
-    <td>
-      bc1qsayxc4zk269p7javts93s3dytae28qzgrav63y
-    </td>
+    <td style="background-color: #FFD700; padding: 8px;"><strong>Bitcoin (BTC):</strong></td>
+    <td>bc1qsayxc4zk269p7javts93s3dytae28qzgrav63y</td>
   </tr>
   <tr>
-    <td style="min-width: 50px;">
-      <img src="images/icons/ether.png" alt="Ethereum">
-    </td>
-    <td>
-      0xDD016B921Cb19Df0231252F87d76cf76fC6193cd
-    </td>
+    <td style="background-color: #FF69B4; padding: 8px;"><strong>Ethereum (ETH):</strong></td>
+    <td>0xDD016B921Cb19Df0231252F87d76cf76fC6193cd</td>
   </tr>
   <tr>
-    <td style="min-width: 500px;">
-      <img src="images/icons/bnb.png" alt="BNB">
-    </td>
-    <td>
-      0xDD016B921Cb19Df0231252F87d76cf76fC6193cd
-    </td>
+    <td style="background-color: #008000; padding: 8px;"><strong>BNB (BEP20):</strong></td>
+    <td>0xDD016B921Cb19Df0231252F87d76cf76fC6193cd</td>
   </tr>
   <tr>
-    <td style="min-width: 40%;">
-      <img src="images/icons/usdt.png" alt="USDT (TRX20)">
-    </td>
-    <td>
-      TRQQYTPxb541rHRondrvjMKjKGUbQFth1g
-    </td>
+    <td style="background-color: #00CED1; padding: 8px;"><strong>USDT (TRX20):</strong></td>
+    <td>TRQQYTPxb541rHRondrvjMKjKGUbQFth1g</td>
   </tr>
 </table>
 
