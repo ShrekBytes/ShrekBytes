@@ -127,32 +127,32 @@
 
 <br clear="both"> 
 
-<h2 align="left">🎁 Support</h2>
+<h2>🎁 Support</h2>
 
-<p align="left">If you appreciate my work, you can support me with a cryptocurrency donation. It helps me continue creating open-source projects and valuable resources for the community.</p>
+<p>If you appreciate my work, you can support me with a cryptocurrency donation. It helps me continue creating open-source projects and valuable resources for the community.</p>
 
-<p align="left">You can donate using the following cryptocurrencies:</p>
+<p>You can donate using the following cryptocurrencies:</p>
 
-<ul style="padding-left: 20px;">
-  <li style="margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/Bitcoin%20(BTC)-orange?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" style="vertical-align: middle;">
-    <span style="vertical-align: middle; margin-left: 10px;">Bitcoin (BTC): [Your Bitcoin address]</span>
+<ul>
+  <li>
+    <img src="https://img.shields.io/badge/Bitcoin%20(BTC)-orange?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
+    <span>Bitcoin (BTC): [Your Bitcoin address]</span>
   </li>
-  <li style="margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/Ethereum%20(ERC20)-darkslategray?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" style="vertical-align: middle;">
-    <span style="vertical-align: middle; margin-left: 10px;">Ethereum (ERC20): [Your Ethereum address]</span>
+  <li>
+    <img src="https://img.shields.io/badge/Ethereum%20(ERC20)-darkslategray?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum">
+    <span>Ethereum (ERC20): [Your Ethereum address]</span>
   </li>
-  <li style="margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/BNB%20(BEP20)-gold?style=for-the-badge&logo=binance&logoColor=white" alt="BNB" style="vertical-align: middle;">
-    <span style="vertical-align: middle; margin-left: 10px;">BNB (BEP20): [Your BNB address]</span>
+  <li>
+    <img src="https://img.shields.io/badge/BNB%20(BEP20)-gold?style=for-the-badge&logo=binance&logoColor=white" alt="BNB">
+    <span>BNB (BEP20): [Your BNB address]</span>
   </li>
-  <li style="margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/USDT%20(TRX20)-lime?style=for-the-badge&logo=tether&logoColor=white" alt="USDT (TRX20)" style="vertical-align: middle;">
-    <span style="vertical-align: middle; margin-left: 10px;">USDT (TRX20): [Your USDT address]</span>
+  <li>
+    <img src="https://img.shields.io/badge/USDT%20(TRX20)-lime?style=for-the-badge&logo=tether&logoColor=white" alt="USDT (TRX20)">
+    <span>USDT (TRX20): [Your USDT address]</span>
   </li>
 </ul>
 
-<p align="left">Thank you for your support!</p>
+<p>Thank you for your support!</p>
 
 
 ###
