@@ -2,35 +2,61 @@
 
 ###
 
-<h1 align="left">Hi,<br>my_name(Shrek Bytes)</h1>
+<h1 align="left">Hi, my_name(Shrek Bytes)</h1>
 
 ###
+
+<p align="left">A backend developer heavily influenced by storytelling and interactions and addicted to games, puzzles, and movies.</p>
+
+###
+
+<br clear="both">
 
 <h2 align="left">.about()</h2>
 
 ###
 
+<br clear="both">
+
 <p align="left">🔭 I’m currently working on improving myself.<br>🤝 I begrudgingly accept help but thrive on the challenge of suffering alone.<br>🌱 I’m currently learning automation and bug bounty.<br>🚀 I'm interested in collaborating on exciting projects.<br>🌐 Check out my portfolio website: jglf.SITE<br>⚡ Fun fact: Shrek Bytes is not my real name.</p>
 
 ###
+
+<br clear="both">
 
 <h2 align="center">🌐 .social()</h2>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
+  <a href="https://example.com/my-username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://example.com/my-username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://example.com/my-username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://example.com/my-username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://example.com/my-username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
 
+<br clear="both">
+
 <h2 align="center">💻 .skills()</h2>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="65" alt="c logo"  />
@@ -55,13 +81,23 @@
 
 ###
 
-<h2 align="center">📊 GitHub Stats:</h2>
+<br clear="both">
+
+<h2 align="center">📊 .stats()</h2>
 
 ###
 
-<p align="center">Hello World!!</p>
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShrekBytes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ShrekBytes&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShrekBytes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/ShrekBytes/ShrekBytes/output/snake.svg" alt="Snake animation" />
 
