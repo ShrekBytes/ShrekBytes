@@ -126,19 +126,19 @@
 
 <table>
   <tr>
-    <td><strong>Bitcoin (BTC):</strong></td>
+    <td><img src="images/icons/btc.png"/></td>
     <td>bc1qsayxc4zk269p7javts93s3dytae28qzgrav63y</td>
-  </tr>
-  <tr>
-    <td><strong><i class="fa-brands fa-ethereum"></i> Ethereum (ETH):</strong></td>
-    <td>0xDD016B921Cb19Df0231252F87d76cf76fC6193cd</td>
   </tr>
   <tr>
     <td><img src="images/icons/bnb.png"/></td>
     <td>0xDD016B921Cb19Df0231252F87d76cf76fC6193cd</td>
   </tr>
   <tr>
-    <td><strong>USDT (TRX20):</strong></td>
+    <td><img src="images/icons/ether.png"/></td>
+    <td>0xDD016B921Cb19Df0231252F87d76cf76fC6193cd</td>
+  </tr>
+  <tr>
+    <td><img src="images/icons/usdt.png"/></td>
     <td>TRQQYTPxb541rHRondrvjMKjKGUbQFth1g</td>
   </tr>
 </table>
