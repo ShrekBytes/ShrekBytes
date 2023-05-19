@@ -144,7 +144,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/BNB%20(BEP20)-gold?style=for-the-badge&logo=binance&logoColor=white" alt="BNB">
+      <img src="images/icons/bnb.png" alt="BNB">
     </td>
     <td>
       0xDD016B921Cb19Df0231252F87d76cf76fC6193cd
@@ -152,7 +152,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/USDT%20(TRX20)-26A17B?style=for-the-badge&logo=tether&logoColor=white" alt="USDT (TRX20)">
+      <img src="images/icons/tether.png" alt="USDT (TRX20)">
     </td>
     <td>
       TRQQYTPxb541rHRondrvjMKjKGUbQFth1g
