@@ -133,25 +133,40 @@
 
 <p>You can donate using the following cryptocurrencies:</p>
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/Bitcoin%20(BTC)-orange?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" style="vertical-align: middle;">
-  <span style="margin-left: 10px;">Bitcoin (BTC): [Your Bitcoin address]</span>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/Ethereum%20(ERC20)-darkslategray?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" style="vertical-align: middle;">
-  <span style="margin-left: 10px;">Ethereum (ERC20): [Your Ethereum address]</span>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/BNB%20(BEP20)-gold?style=for-the-badge&logo=binance&logoColor=white" alt="BNB" style="vertical-align: middle;">
-  <span style="margin-left: 10px;">BNB (BEP20): [Your BNB address]</span>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/USDT%20(TRX20)-lime?style=for-the-badge&logo=tether&logoColor=white" alt="USDT (TRX20)" style="vertical-align: middle;">
-  <span style="margin-left: 10px;">USDT (TRX20): [Your USDT address]</span>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Bitcoin%20(BTC)-orange?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
+    </td>
+    <td>
+      Bitcoin (BTC): [Your Bitcoin address]
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Ethereum%20(ERC20)-darkslategray?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum">
+    </td>
+    <td>
+      Ethereum (ERC20): [Your Ethereum address]
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/BNB%20(BEP20)-gold?style=for-the-badge&logo=binance&logoColor=white" alt="BNB">
+    </td>
+    <td>
+      BNB (BEP20): [Your BNB address]
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/USDT%20(TRX20)-lime?style=for-the-badge&logo=tether&logoColor=white" alt="USDT (TRX20)">
+    </td>
+    <td>
+      USDT (TRX20): [Your USDT address]
+    </td>
+  </tr>
+</table>
 
 <p>Thank you for your support!</p>
 
