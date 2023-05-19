@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">Hi, my_name(Shrek Bytes)</h1>
+<h1 align="left">Hi, I_am(Shrek Bytes)</h1>
 
 ###
 
