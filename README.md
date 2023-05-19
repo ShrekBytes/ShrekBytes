@@ -59,22 +59,10 @@
 
 ###
 
-<p align="center">![](https://github-readme-stats.vercel.app/api?username=ShrekBytes&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShrekBytes&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrekBytes&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-</p>
+<p align="center">Hello World!!</p>
 
 ###
 
 <img src="https://raw.githubusercontent.com/ShrekBytes/ShrekBytes/output/snake.svg" alt="Snake animation" />
 
 ###
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShrekBytes&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/duchina) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/duchina)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrekbytes&show_icons=true&locale=en&layout=compact" alt="shrekbytes" /></p>
