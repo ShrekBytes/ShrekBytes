@@ -139,7 +139,7 @@
       <img src="https://img.shields.io/badge/Bitcoin%20(BTC)-orange?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
     </td>
     <td>
-      Bitcoin (BTC): [Your Bitcoin address]
+      Bitcoin (BTC): bc1qsayxc4zk269p7javts93s3dytae28qzgrav63y
     </td>
   </tr>
   <tr>
@@ -147,7 +147,7 @@
       <img src="https://img.shields.io/badge/Ethereum%20(ERC20)-darkslategray?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum">
     </td>
     <td>
-      Ethereum (ERC20): [Your Ethereum address]
+      Ethereum (ERC20): 0xDD016B921Cb19Df0231252F87d76cf76fC6193cd
     </td>
   </tr>
   <tr>
@@ -155,7 +155,7 @@
       <img src="https://img.shields.io/badge/BNB%20(BEP20)-gold?style=for-the-badge&logo=binance&logoColor=white" alt="BNB">
     </td>
     <td>
-      BNB (BEP20): [Your BNB address]
+      BNB (BEP20): 0xDD016B921Cb19Df0231252F87d76cf76fC6193cd
     </td>
   </tr>
   <tr>
@@ -163,7 +163,7 @@
       <img src="https://img.shields.io/badge/USDT%20(TRX20)-lime?style=for-the-badge&logo=tether&logoColor=white" alt="USDT (TRX20)">
     </td>
     <td>
-      USDT (TRX20): [Your USDT address]
+      USDT (TRX20): TRQQYTPxb541rHRondrvjMKjKGUbQFth1g
     </td>
   </tr>
 </table>
