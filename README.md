@@ -142,7 +142,7 @@
     </td>
   </tr>
   <tr>
-    <td style="min-width: 50px;">
+    <td style="min-width: 500px;">
       <img src="images/icons/bnb.png" alt="BNB">
     </td>
     <td>
@@ -150,7 +150,7 @@
     </td>
   </tr>
   <tr>
-    <td style="min-width: 50px;">
+    <td style="min-width: 40%;">
       <img src="images/icons/usdt.png" alt="USDT (TRX20)">
     </td>
     <td>
