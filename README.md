@@ -59,17 +59,16 @@
 
 ###
 
-<p align="center">Hello World!!</p>
+<p align="center">![](https://github-readme-stats.vercel.app/api?username=ShrekBytes&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShrekBytes&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrekBytes&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+</p>
 
 ###
 
 <img src="https://raw.githubusercontent.com/ShrekBytes/ShrekBytes/output/snake.svg" alt="Snake animation" />
 
 ###
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShrekBytes&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShrekBytes&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrekBytes&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShrekBytes&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
