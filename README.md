@@ -126,6 +126,10 @@
 
 <table>
   <tr>
+    <td><strong>Coin (Network)</strong></td>
+    <td>Address</td>
+  </tr>
+  <tr>
     <td><img src="images/icons/btc.png"/></td>
     <td>bc1qsayxc4zk269p7javts93s3dytae28qzgrav63y</td>
   </tr>
