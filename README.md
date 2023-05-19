@@ -127,8 +127,28 @@
 
 <br clear="both"> 
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee"  />
+
+<ul align="left">
+  <li>
+    <img src="https://img.shields.io/badge/Bitcoin%20(BTC)-orange?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
+    Bitcoin (BTC): [Your Bitcoin address]
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Ethereum%20(ERC20)-darkslategray?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum">
+    Ethereum (ERC20): [Your Ethereum address]
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/BNB%20(BEP20)-gold?style=for-the-badge&logo=binance&logoColor=white" alt="BNB">
+    BNB (BEP20): [Your BNB address]
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/USDT%20(TRX20)-lime?style=for-the-badge&logo=tether&logoColor=white" alt="USDT (TRX20)">
+    USDT (TRX20): [Your USDT address]
+  </li>
+</ul>
+
+<p align="left">Thank you for your support!</p>
+
 
 ###
   
