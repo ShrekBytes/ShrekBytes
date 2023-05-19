@@ -18,7 +18,14 @@
 
 <br clear="both">
 
-<p align="left">🔭 I’m currently working on improving myself.<br>🤝 I begrudgingly accept help but thrive on the challenge of suffering alone.<br>🌱 I’m currently learning automation and bug bounty.<br>🚀 I'm interested in collaborating on exciting projects.<br>🌐 Check out my portfolio website: jglf.SITE<br>⚡ Fun fact: Shrek Bytes is not my real name.</p>
+<ul align="left">
+  <li>🔭 I’m currently working on improving myself.</li>
+  <li>🤝 I begrudgingly accept help but thrive on the challenge of suffering alone.</li>
+  <li>🌱 I’m currently learning automation and bug bounty.</li>
+  <li>🚀 I'm interested in collaborating on exciting projects.</li>
+  <li>🌐 Check out my portfolio website: jglf.SITE</li>
+  <li>⚡ Fun fact: Shrek Bytes is not my real name.</li>
+</ul>
 
 ###
 
