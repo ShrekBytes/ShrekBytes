@@ -128,7 +128,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Bitcoin%20(BTC)-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
+      <img src="images/icons/btc.png" alt="Bitcoin">
     </td>
     <td>
       bc1qsayxc4zk269p7javts93s3dytae28qzgrav63y
@@ -136,7 +136,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Ethereum%20(ERC20)-darkslategray?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum">
+      <img src="images/icons/ether.png" alt="Ethereum">
     </td>
     <td>
       0xDD016B921Cb19Df0231252F87d76cf76fC6193cd
@@ -152,7 +152,7 @@
   </tr>
   <tr>
     <td>
-      <img src="images/icons/tether.png" alt="USDT (TRX20)">
+      <img src="images/icons/usdt.png" alt="USDT (TRX20)">
     </td>
     <td>
       TRQQYTPxb541rHRondrvjMKjKGUbQFth1g
