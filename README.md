@@ -112,11 +112,13 @@
   
 <br clear="both">
 
-<h2 align="center">📊 .stats()</h2>
+<h2 align="left">📊 .tropies()</h2>
 
 ###
-  
-<div align="center">
+
+<br clear="both"> 
+
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=ShrekBytes&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="trophies"  />
 
 ###
