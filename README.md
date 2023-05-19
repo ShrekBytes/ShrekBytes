@@ -118,20 +118,12 @@
 
 ###
   
-  
-<br clear="both">
-
-<h2 align="left">💰 You can help me by Donating</h2>
-
-###
-
 <br clear="both"> 
 
 <h2>🎁 Support</h2>
 
 <p>If you appreciate my work, you can support me with a cryptocurrency donation. It helps me continue creating open-source projects and valuable resources for the community.</p>
 
-<p>You can donate using the following cryptocurrencies:</p>
 
 <table>
   <tr>
