@@ -84,7 +84,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ShrekBytes/ShrekBytes/output/snake.svg" alt="Snake animation" />
+<img src="github-contribution-grid-snake.gif" alt="Snake animation" />
 
 ###
 
