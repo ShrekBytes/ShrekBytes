@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving myself.<br>🤝 I begrudgingly accept help but thrive on the challenge of suffering alone.<br>🌱 I’m currently learning automation and bug bounty.<br> 🚀 I'm interested in collaborating on exciting projects.<br>[🌐 Check out my portfolio website: jglf.SITE](https://jglf.site)<br>⚡ Fun fact: Shrek Bytes is not my real name.
+🔭 I’m currently working on improving myself.<br>🤝 I begrudgingly accept help but thrive on the challenge of suffering alone.<br>🌱 I’m currently learning automation and bug bounty.<br> 🚀 I'm interested in collaborating on exciting projects.<br>🌐 Check out my portfolio website:[ jglf.SITE ](https://jglf.site)<br>⚡ Fun fact: Shrek Bytes is not my real name.
 
 
 ## 🌐 Socials:
