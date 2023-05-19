@@ -127,7 +127,6 @@
 
 <br clear="both"> 
 
-
 <h2 align="left">🎁 Support</h2>
 
 <p align="left">If you appreciate my work, you can support me with a cryptocurrency donation. It helps me continue creating open-source projects and valuable resources for the community.</p>
@@ -154,6 +153,7 @@
 </ul>
 
 <p align="left">Thank you for your support!</p>
+
 
 ###
   
