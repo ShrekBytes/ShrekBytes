@@ -110,10 +110,15 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/fff) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ff) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fff) 
   
   
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShrekBytes&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ShrekBytes&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShrekBytes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+<br clear="both">
+
+<h2 align="center">📊 .stats()</h2>
 
 ###
+  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShrekBytes&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="trophies"  />
+
+###
+  
+  
