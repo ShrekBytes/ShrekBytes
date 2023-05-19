@@ -160,7 +160,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/USDT%20(TRX20)-lime?style=for-the-badge&logo=tether&logoColor=white" alt="USDT (TRX20)">
+      <img src="https://img.shields.io/badge/USDT%20(TRX20)-#26A17B?style=for-the-badge&logo=tether&logoColor=white" alt="USDT (TRX20)">
     </td>
     <td>
       USDT (TRX20): TRQQYTPxb541rHRondrvjMKjKGUbQFth1g
