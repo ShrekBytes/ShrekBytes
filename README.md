@@ -97,18 +97,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ShrekBytes/ShrekBytes/output/snake.svg" alt="Snake animation" />
-
-###
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShrekBytes&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-  ## 💰 You can help me by Donating
- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ff) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fff) 
-  
   
 <br clear="both">
 
