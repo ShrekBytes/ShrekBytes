@@ -124,10 +124,9 @@
 
 <p>If you appreciate my work, you can support me with a cryptocurrency donation. It helps me continue creating open-source projects and valuable resources for the community.</p>
 
-
 <table>
   <tr>
-    <td>
+    <td style="min-width: 50px;">
       <img src="images/icons/btc.png" alt="Bitcoin">
     </td>
     <td>
@@ -135,7 +134,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="min-width: 50px;">
       <img src="images/icons/ether.png" alt="Ethereum">
     </td>
     <td>
@@ -143,7 +142,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="min-width: 50px;">
       <img src="images/icons/bnb.png" alt="BNB">
     </td>
     <td>
@@ -151,7 +150,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="min-width: 50px;">
       <img src="images/icons/usdt.png" alt="USDT (TRX20)">
     </td>
     <td>
@@ -161,6 +160,7 @@
 </table>
 
 <p>Thank you for your support!</p>
+
 
 
 ###
