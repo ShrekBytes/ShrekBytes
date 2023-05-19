@@ -107,7 +107,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ShrekBytes&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/fff) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ff) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fff) 
+ [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ff) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fff) 
   
   
 <br clear="both">
@@ -120,6 +120,20 @@
 
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=ShrekBytes&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="trophies"  />
+
+###
+  
+  
+<br clear="both">
+
+<h2 align="left">💰 You can help me by Donating</h2>
+
+###
+
+<br clear="both"> 
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee"  />
 
 ###
   
