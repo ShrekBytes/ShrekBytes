@@ -16,9 +16,6 @@ A backend developer heavily influenced by storytelling and interactions and addi
 - ⚡ Fun fact: Shrek Bytes is not my real name.
 
 
-
-
-
 <div align="center">
 
 ## 🌐 .social()
@@ -58,11 +55,7 @@ A backend developer heavily influenced by storytelling and interactions and addi
 
 
 
-
-
-<h2 align="center">📊 .stats()</h2>
-
-###
+##📊 .stats()
 
 <br clear="both">
 
@@ -71,8 +64,6 @@ A backend developer heavily influenced by storytelling and interactions and addi
   <img src="https://streak-stats.demolab.com?user=ShrekBytes&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShrekBytes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
 
 <br clear="both">
 
