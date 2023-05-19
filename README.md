@@ -88,44 +88,15 @@ A backend developer heavily influenced by storytelling and interactions and addi
 
 </div>
 
+## 🎁 Support
 
+If you appreciate my work, you can support me with a cryptocurrency donation. It helps me continue creating open-source projects and valuable resources for the community.
 
+| Coin (Network) | Address                                   |
+| -------------- | ----------------------------------------- |
+| ![Bitcoin Logo](images/icons/btc.png)       | bc1qsayxc4zk269p7javts93s3dytae28qzgrav63y |
+| ![Binance Coin Logo](images/icons/bnb.png)  | 0xDD016B921Cb19Df0231252F87d76cf76fC6193cd |
+| ![Ethereum Logo](images/icons/ether.png)    | 0xDD016B921Cb19Df0231252F87d76cf76fC6193cd |
+| ![Tether Logo](images/icons/usdt.png)       | TRQQYTPxb541rHRondrvjMKjKGUbQFth1g         |
 
-  
-<h2>🎁 Support</h2>
-
-<p>If you appreciate my work, you can support me with a cryptocurrency donation. It helps me continue creating open-source projects and valuable resources for the community.</p>
-
-<table>
-  <!-- Table headers -->
-  <tr>
-    <th>Coin (Network)</th>
-    <th>Address</th>
-  </tr>
-  <!-- Bitcoin row -->
-  <tr>
-    <td><img src="images/icons/btc.png" alt="Bitcoin Logo"/></td>
-    <td>bc1qsayxc4zk269p7javts93s3dytae28qzgrav63y</td>
-  </tr>
-  <!-- Binance Coin row -->
-  <tr>
-    <td><img src="images/icons/bnb.png" alt="Binance Coin Logo"/></td>
-    <td>0xDD016B921Cb19Df0231252F87d76cf76fC6193cd</td>
-  </tr>
-  <!-- Ethereum row -->
-  <tr>
-    <td><img src="images/icons/ether.png" alt="Ethereum Logo"/></td>
-    <td>0xDD016B921Cb19Df0231252F87d76cf76fC6193cd</td>
-  </tr>
-  <!-- Tether row -->
-  <tr>
-    <td><img src="images/icons/usdt.png" alt="Tether Logo"/></td>
-    <td>TRQQYTPxb541rHRondrvjMKjKGUbQFth1g</td>
-  </tr>
-</table>
-
-<p>Thank you for your support!</p>
-
-
-###
-  
+Thank you for your support!
