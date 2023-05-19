@@ -126,19 +126,19 @@
 
 <table>
   <tr>
-    <td style="background-color: #FFD700; padding: 8px;"><strong>Bitcoin (BTC):</strong></td>
+    <td><strong>Bitcoin (BTC):</strong></td>
     <td>bc1qsayxc4zk269p7javts93s3dytae28qzgrav63y</td>
   </tr>
   <tr>
-    <td style="background-color: #FF69B4; padding: 8px;"><strong>Ethereum (ETH):</strong></td>
+    <td><strong><i class="fa-brands fa-ethereum"></i> Ethereum (ETH):</strong></td>
     <td>0xDD016B921Cb19Df0231252F87d76cf76fC6193cd</td>
   </tr>
   <tr>
-    <td style="background-color: #008000; padding: 8px;"><strong>BNB (BEP20):</strong></td>
+    <td><strong>BNB:</strong></td>
     <td>0xDD016B921Cb19Df0231252F87d76cf76fC6193cd</td>
   </tr>
   <tr>
-    <td style="background-color: #00CED1; padding: 8px;"><strong>USDT (TRX20):</strong></td>
+    <td><strong>USDT (TRX20):</strong></td>
     <td>TRQQYTPxb541rHRondrvjMKjKGUbQFth1g</td>
   </tr>
 </table>
