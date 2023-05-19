@@ -1,33 +1,20 @@
-<img align="right" height="185" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"  />
+<p align="right">
+  <img align="right" height="185" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif">
+</p>
 
-###
+# Hi, my_name (Shrek Bytes)
 
-<h1 align="left">Hi, my_name(Shrek Bytes)</h1>
+A backend developer heavily influenced by storytelling and interactions and addicted to games, puzzles, and movies.
 
-###
+## .about()
 
-<p align="left">A backend developer heavily influenced by storytelling and interactions and addicted to games, puzzles, and movies.</p>
+- 🔭 I’m currently working on improving myself.
+- 🤝 I begrudgingly accept help but thrive on the challenge of suffering alone.
+- 🌱 I’m currently learning automation and bug bounty.
+- 🚀 I'm interested in collaborating on exciting projects.
+- 🌐 Check out my portfolio website: [jglf.SITE](https://jglf.site)
+- ⚡ Fun fact: Shrek Bytes is not my real name.
 
-###
-
-<br clear="both">
-
-<h2 align="left">.about()</h2>
-
-###
-
-<br clear="both">
-
-<ul align="left">
-  <li>🔭 I’m currently working on improving myself.</li>
-  <li>🤝 I begrudgingly accept help but thrive on the challenge of suffering alone.</li>
-  <li>🌱 I’m currently learning automation and bug bounty.</li>
-  <li>🚀 I'm interested in collaborating on exciting projects.</li>
-  <li>🌐 Check out my portfolio website: jglf.SITE</li>
-  <li>⚡ Fun fact: Shrek Bytes is not my real name.</li>
-</ul>
-
-###
 
 <br clear="both">
 
@@ -103,7 +90,6 @@
 </div>
 
 ###
-
   
 <br clear="both">
 
@@ -111,14 +97,11 @@
 
 ###
 
-<br clear="both"> 
-
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=ShrekBytes&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="trophies"  />
 
 ###
   
-<br clear="both"> 
 
 
   
@@ -160,5 +143,4 @@
 
 
 ###
-  
   
