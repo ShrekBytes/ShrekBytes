@@ -60,40 +60,27 @@ A backend developer heavily influenced by storytelling and interactions and addi
 
 
 
-
-
-
-<br clear="both">
-
-<h2 align="center">📊 .stats()</h2>
-
-###
-
-<br clear="both">
+## 📊 .stats()
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShrekBytes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ShrekBytes&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShrekBytes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
+
+![Stats Graph](https://github-readme-stats.vercel.app/api?username=ShrekBytes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1)
+![Streak Graph](https://streak-stats.demolab.com?user=ShrekBytes&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3)
+![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=ShrekBytes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2)
+
 </div>
 
-###
-  
-<br clear="both">
-
-<h2 align="left">📊 .tropies()</h2>
-
-###
+## 🏆 .trophies()
 
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShrekBytes&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="trophies"  />
 
-###
-  
+![Trophies](https://github-profile-trophy.vercel.app/?username=ShrekBytes&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
+</div>
 
 
-  
-  
+
+
   
 <h2>🎁 Support</h2>
 
