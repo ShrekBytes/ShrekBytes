@@ -1,4 +1,4 @@
-<img align="right" width="50%" src="https://media.tenor.com/VpZ2Nf5gdRYAAAAC/pc-banging.gif"  />
+<img align="right" width="50%" src="typing.gif"  />
 
 ###
 
