@@ -14,7 +14,7 @@
 
 ###
 
-- 🔭 I’m currently working on improving myself.
+- 🔭 I’m currently working on learning my interests.
 - 🤝 I graciously accept help but thrive on the challenge of suffering alone.
 - 🌱 I’m currently learning automation and bug bounty.
 - 🚀 I'm interested in collaborating on exciting projects.
