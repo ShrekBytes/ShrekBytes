@@ -1,4 +1,4 @@
-<img align="right" width="50%" src="images/gif/typing.gif"  />
+<img align="right" width="50%" src="images/gif/typingr.gif"  />
 
 ###
 
