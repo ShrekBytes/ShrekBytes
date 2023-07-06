@@ -8,7 +8,11 @@
 
 <p align="left">An individual fueled by curiosity and an appetite for continuous learning, with a deep appreciation for games and puzzles.</p>
 
-##
+###
+
+<h2 align="left">.about()</h2>
+
+###
 
 - 🔭 I am currently exploring my interests in the field of computer science.
 - 🚀 I'm interested in collaborating on exciting projects.
