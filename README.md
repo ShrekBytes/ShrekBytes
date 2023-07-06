@@ -90,15 +90,6 @@ If you find yourself stumped, feel free to reach out to me for the answer and mo
 
 ###
 
-
-## 🏆 .trophies()
-
-<div align="left">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ShrekBytes&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
 <img src="https://github.com/ShrekBytes/ShrekBytes/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
