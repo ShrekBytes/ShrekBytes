@@ -102,3 +102,5 @@ If you find yourself stumped, feel free to reach out to me for the answer and mo
 | ![Binance Coin Logo](images/icons/bnb.png)  | 0xDD016B921Cb19Df0231252F87d76cf76fC6193cd |
 | ![Ethereum Logo](images/icons/ether.png)    | 0xDD016B921Cb19Df0231252F87d76cf76fC6193cd |
 | ![Tether Logo](images/icons/usdt.png)       | TRQQYTPxb541rHRondrvjMKjKGUbQFth1g         |
+
+Thank you for your support!
