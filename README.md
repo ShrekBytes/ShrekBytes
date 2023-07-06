@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">An individual fueled by curiosity and a passion for continuous learning.</p>
+<p align="left">An individual fueled by curiosity and a passion for continuous learning with a deep appreciation for games and puzzles.</p>
 
 ###
 
