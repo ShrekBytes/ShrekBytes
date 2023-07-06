@@ -10,10 +10,6 @@
 
 ###
 
-<h2 align="left">.about()</h2>
-
-###
-
 - 🔭 I am currently exploring my interests in the field of computer science.
 - 🚀 I'm interested in collaborating on exciting projects.
 - 🌐 Check out my portfolio website: [jglf.SITE](https://jglf.site)
