@@ -15,7 +15,7 @@
 ###
 
 - 🔭 I am currently exploring my interests in the field of computer science.
-- 🤝 I graciously accept help but thrive on the challenge of suffering alone.
+- 🚀 I'm interested in collaborating on exciting projects.
 - 🌐 Check out my portfolio website: [jglf.SITE](https://jglf.site)
 - ⚡ Fun fact: Shrek Bytes is not my real name.
 
