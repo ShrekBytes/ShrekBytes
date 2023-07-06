@@ -19,7 +19,7 @@
 - 🌐 Check out my portfolio website: [jglf.SITE](https://jglf.site)
 - ⚡ Fun fact: Shrek Bytes is not my real name.
 
-###
+##
 Up for a little game? Let's see if you can guess who said the quote,
 **_"My story is one of many thousands, and the world will not suffer if it ends too soon."_**
 If you find yourself stumped, feel free to reach out to me for the answer and more.
