@@ -20,7 +20,7 @@
 - ⚡ Fun fact: Shrek Bytes is not my real name.
 
 Up for a little game? Let's see if you can guess who said the quote,
-<p>"My story is one of many thousands, and the world will not suffer if it ends too soon."</p>
+<p>'''"My story is one of many thousands, and the world will not suffer if it ends too soon."'''</p>
 If you find yourself stumped, feel free to reach out to me for the answer and more.
 
 ###
