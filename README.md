@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">A backend developer heavily influenced by storytelling & interactions and addicted to games, puzzles, and movies.</p>
+<p align="left">An individual fueled by curiosity and a passion for continuous learning.</p>
 
 ###
 
