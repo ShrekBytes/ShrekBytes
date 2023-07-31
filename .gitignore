@@ -1,5 +1,0 @@
-# Ignore a specific file
-file_to_ignore.txt
-
-# Ignore a directory and its content
-games/
