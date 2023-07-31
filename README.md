@@ -21,7 +21,7 @@
 
 ##
 Up for a little game? Let's see if you can guess who said the quote,
-**_"My story is one of many thousands, and the world will not suffer if it ends too soon."_** <img src="/quote by Ezio Auditore" width="0" height="0"/>
+**_"My story is one of many thousands, and the world will not suffer if it ends too soon."_** <quote author="Ezio Auditore"/>
 If you find yourself stumped, feel free to reach out to me for the answer and more.
 
 ###
