@@ -21,7 +21,8 @@
 
 ##
 Up for a little game? Let's see if you can guess who said the quote,
-**_"My story is one of many thousands, and the world will not suffer if it ends too soon."_** <p author="Ezio Auditore"/>
+**_"My story is one of many thousands, and the world will not suffer if it ends too soon."_*
+[//]: # (This syntax works like a comment, and won't appear in any output.) 
 If you find yourself stumped, feel free to reach out to me for the answer and more.
 
 ###
