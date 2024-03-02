@@ -43,7 +43,7 @@
 
 ###
 
-<h2 align="center">📊 .stats()</h2>
+<h2 align="center">.stats(<img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />)</h2>
 
 ###
 
