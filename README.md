@@ -68,6 +68,7 @@
 ![Snake animation](https://raw.githubusercontent.com/ShrekBytes/ShrekBytes/output/github-contribution-grid-snake-dark.svg)
 
 ###
+<!--
 <details>
   <summary><h2 align="center">🎁 Support</h2></summary>
   
@@ -82,5 +83,5 @@
   | ![Ethereum Logo](images/icons/ether.png)    | 0xDD016B921Cb19Df0231252F87d76cf76fC6193cd |
   | ![Tether Logo](images/icons/usdt.png)       | TRQQYTPxb541rHRondrvjMKjKGUbQFth1g         |
 </details>
-
+-->
 
