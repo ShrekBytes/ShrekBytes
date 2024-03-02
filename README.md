@@ -1,7 +1,5 @@
 <h2 align="left">.about(ShrekBytes)</h2>
 
-###
-
 <img align="right" height="150" src="images/gif/typing.gif"  />
 
 ###
