@@ -1,6 +1,8 @@
-<h2 align="left">.about(ShrekBytes)</h2>
+<h2 align="left">.about(me)</h2>
 
 <img align="right" height="150" src="images/gif/typing.gif"  />
+
+##
 
 <div align="left">
 <p>
@@ -67,7 +69,6 @@
 
 ![Snake animation](https://raw.githubusercontent.com/ShrekBytes/ShrekBytes/output/github-contribution-grid-snake-dark.svg)
 
-###
 <!--
 <details>
   <summary><h2 align="center">🎁 Support</h2></summary>
