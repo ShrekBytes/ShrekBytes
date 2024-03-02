@@ -6,7 +6,12 @@
 
 ###
 
-<div align="left"> I am bal kori aasld
+<div align="left"><p>
+  I am
+  a gamer,
+  a bug bounty hunter,
+  python enthusiast.
+</p>
 </div>
 
 ###
