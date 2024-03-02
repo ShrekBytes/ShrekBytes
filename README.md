@@ -3,10 +3,12 @@
 <img align="right" height="150" src="images/gif/typing.gif"  />
 
 <div align="left">
-<p>I am...<br>
+<p>
+  I am...<br>
   🎮 a gamer,<br>
   🕸️ a bug bounty hunter,<br>
-  👾 a Python enthusiast.</p>
+  👾 a Python enthusiast.
+</p>
 </div>
 
 ###
