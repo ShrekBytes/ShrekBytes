@@ -25,8 +25,6 @@
 </div>
 
 
-###
-
 <h2 align="center">💻 .skills()</h2>
 
 ###
