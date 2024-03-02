@@ -6,12 +6,11 @@
 
 ###
 
-<div align="left"><p>
-I am
-🎮 a gamer,
-🕸️ a bug bounty hunter,
+<div align="left">
+  I am  
+🎮 a gamer,  
+🕸️ a bug bounty hunter,  
 👾 a Python enthusiast.
-</p>
 </div>
 
 ###
