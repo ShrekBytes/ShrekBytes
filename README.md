@@ -1,8 +1,6 @@
-<h2 align="left">.about(me)</h2>
+<h2 align="left">.about(ShrekBytes)</h2>
 
 <img align="right" height="150" src="images/gif/typing.gif"  />
-
-##
 
 <div align="left">
 <p>
