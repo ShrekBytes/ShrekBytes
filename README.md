@@ -1,4 +1,4 @@
-<h2 align="center">.about()</h2>
+<h2 align="center">.about(<img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />)</h2>
 <img align="right" height="150" src="images/gif/typing.gif"  />
 
 ###
