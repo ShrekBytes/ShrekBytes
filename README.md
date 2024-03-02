@@ -25,7 +25,7 @@
 </div>
 
 
-<h2 align="center">💻 .skills()</h2>
+<h2 align="center">.skills(<img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />)</h2>
 
 ###
 
