@@ -69,7 +69,11 @@
 
 ###
 <details>
-  <summary align="center">🎁 Support</summary>
+  <summary><h2 align="center">🎁 Support</h2></summary>
+  
+  ---
+  
+  <p align="center">Thank you for your support!</p>
 
   | Coin (Network) | Address                                   |
   | -------------- | ----------------------------------------- |
@@ -77,7 +81,6 @@
   | ![Binance Coin Logo](images/icons/bnb.png)  | 0xDD016B921Cb19Df0231252F87d76cf76fC6193cd |
   | ![Ethereum Logo](images/icons/ether.png)    | 0xDD016B921Cb19Df0231252F87d76cf76fC6193cd |
   | ![Tether Logo](images/icons/usdt.png)       | TRQQYTPxb541rHRondrvjMKjKGUbQFth1g         |
-
-  Thank you for your support!
 </details>
+
 
