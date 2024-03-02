@@ -2,8 +2,6 @@
 
 <img align="right" height="150" src="images/gif/typing.gif"  />
 
-###
-
 <div align="left">
 <p>
   I am<br>
