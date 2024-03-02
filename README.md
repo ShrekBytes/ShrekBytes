@@ -69,7 +69,7 @@
 
 ###
 <details>
-  <summary>🎁 Support</summary>
+  <summary align="center">🎁 Support</summary>
 
   | Coin (Network) | Address                                   |
   | -------------- | ----------------------------------------- |
