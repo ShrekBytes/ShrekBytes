@@ -4,10 +4,10 @@
 
 <div align="left">
 <p>
-  I am<br>
-  🎮 a gamer,<br>
-  🕸️ a bug bounty hunter,<br>
-  👾 a Python enthusiast.
+  I am...<br>
+   🎮 a gamer,<br>
+   🕸️ a bug bounty hunter,<br>
+   👾 a Python enthusiast.
 </p>
 </div>
 
