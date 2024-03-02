@@ -7,10 +7,10 @@
 ###
 
 <div align="left"><p>
-  I am
-  🎮 a gamer,
-  🕸️ a bug bounty hunter,
-  👾 python enthusiast.
+I am
+🎮 a gamer,
+🕸️ a bug bounty hunter,
+👾 a Python enthusiast.
 </p>
 </div>
 
