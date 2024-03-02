@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">.about()(ShrekBytes)</h1>
+<h1 align="left">.about(ShrekBytes)</h1>
 
 ###
 
