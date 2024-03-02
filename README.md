@@ -90,7 +90,7 @@ If you find yourself stumped, feel free to reach out to me for the answer and mo
 
 ###
 
-<img src="https://github.com/ShrekBytes/ShrekBytes/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ShrekBytes/ShrekBytes/output/snake.svg" alt="Snake animation" />
 
 ###
 
