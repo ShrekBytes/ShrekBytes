@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">Hi, I_am(Shrek Bytes)</h1>
+<h1 align="left">Hi, I_am(ShrekBytes)</h1>
 
 ###
 
@@ -16,8 +16,7 @@
 
 - 🔭 I am currently exploring my interests in the field of computer science.
 - 🚀 I'm interested in collaborating on exciting projects.
-- 🌐 Check out my portfolio website: [jglf.SITE](https://jglf.site)
-- ⚡ Fun fact: Shrek Bytes is not my real name.
+- ⚡ Fun fact: *** ***** ****** *** *** ***.
 
 ##
 Up for a little game? Let's see if you can guess who said the quote,
