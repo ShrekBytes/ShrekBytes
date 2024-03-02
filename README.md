@@ -2,21 +2,13 @@
 
 ###
 
-<h1 align="left">Hi, I_am(ShrekBytes)</h1>
+<h1 align="left">.about()(ShrekBytes)</h1>
 
 ###
 
 <p align="left">An individual fueled by curiosity and an appetite for continuous learning, with a deep appreciation for games and puzzles.</p>
 
 ###
-
-<h2 align="left">.about()</h2>
-
-###
-
-- 🔭 I am currently exploring my interests in the field of computer science.
-- 🚀 I'm interested in collaborating on exciting projects.
-- ⚡ Fun fact: *** ***** ****** *** *** ***.
 
 ##
 Up for a little game? Let's see if you can guess who said the quote,
