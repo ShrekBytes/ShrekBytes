@@ -1,4 +1,4 @@
-<h2 align="center">.about(me)</h2>
+<h2 align="center">.about()</h2>
 <img align="right" height="150" src="images/gif/typing.gif"  />
 
 ###
