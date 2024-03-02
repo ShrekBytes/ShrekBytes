@@ -18,11 +18,6 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </div>
 
-###
-
-<img align="right" width="50%" src="images/gif/typing.gif"  />
-
-###
 
 <h1 align="left">.about(ShrekBytes)</h1>
 
