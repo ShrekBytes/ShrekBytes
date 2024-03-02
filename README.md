@@ -10,13 +10,6 @@
 
 ###
 
-##
-Up for a little game? Let's see if you can guess who said the quote,
-**_"My story is one of many thousands, and the world will not suffer if it ends too soon[.](#quote_by_Ezio_Auditore)"_**
-If you find yourself stumped, feel free to reach out to me for the answer and more.
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/shrekbytes/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
