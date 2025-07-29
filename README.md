@@ -15,10 +15,13 @@
 
 ###
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge)
-![Twitter](https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![BuyMeACoffee](https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-profile)
+
+[![Twitter](https://img.shields.io/badge/Twitter-000?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/yourhandle)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
+
+[![BuyMeACoffee](https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourname)
 
 
 
