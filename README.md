@@ -1,5 +1,5 @@
 
-<h2 align="center">.𝚊𝚋𝚘𝚞𝚝()</h2>
+<h2 align="center">.𝚊𝚋𝚘𝚞𝚝( )</h2>
 <img align="right" height="150" src="images/gif/typing.gif"  />
 
 ###
@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="center">.𝖕𝖗𝖔𝖏𝖊𝖈𝖙𝖘()</h2>
+<h2 align="center">.𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜( )</h2>
 
 ###
 
