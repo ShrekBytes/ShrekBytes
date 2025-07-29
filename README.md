@@ -9,8 +9,8 @@
   I am...<br>
   🎮 a gamer,<br>
   🕸️ a bug bounty hunter,<br>
-  👾 a Python enthusiast who can write "Helllo World!".
-</p>!
+  👾 a Python enthusiast.
+</p>
 </div>
 
 ###
