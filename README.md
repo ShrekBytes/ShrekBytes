@@ -56,16 +56,13 @@ A Flask-based web application that uses a trained deep learning model to detect 
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c) ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python) ![Lua](https://img.shields.io/badge/-Lua-000000?style=for-the-badge&logo=lua)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java) ![Dart](https://img.shields.io/badge/-Dart-000000?style=for-the-badge&logo=dart) ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin)
 
-#### Frontends
+#### Frontend
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter) ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin) ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=tailwind-css)
 
-#### Backends
+#### Backend
 ![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django) ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
 
-#### Database
-![Redis](https://img.shields.io/badge/-Redis-000000?style=for-the-badge&logo=redis) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql) ![SQLite](https://img.shields.io/badge/-SQLite-000000?style=for-the-badge&logo=sqlite) ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql)
-
-#### Design & 3D
+#### Design & Prototyping
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
 
 #### Game Development
@@ -74,11 +71,8 @@ A Flask-based web application that uses a trained deep learning model to detect 
 #### Hardware & IoT
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=for-the-badge&logo=arduino) ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif)
 
-#### Version Control
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github) 
-
 #### Cloud & DevOps
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase) ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker) ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux) 
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase) ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker) ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux) ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
 
 
 ###
