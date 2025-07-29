@@ -16,11 +16,8 @@
 
 <div>
 <p align="left">
-  <a href="https://bugcrowd.com/ShrekBytes" target="blank"><img align="center" src="https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png" alt="ShrekBytes" height="30" width="30" /></a>
-  <a href="https://hackerone.com/0xshrekbytes" target="blank"><img align="center" src="https://www.hackerone.com/sites/default/files/favicon_0.ico" alt="ShrekBytes" height="30" width="30" /></a>
   <a href="https://twitter.com/ShrekBytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="ShrekBytes" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/ShrekBytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="ShrekBytes" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@ShrekBytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="ShrekBytes" height="30" width="40" /></a><a href="https://discord.gg/ShrekBytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="ShrekBytes" height="30" width="40" /></a>
   </p>
 </div>
 
