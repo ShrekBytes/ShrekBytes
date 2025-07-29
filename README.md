@@ -22,6 +22,11 @@
   </p>
 </div>
 
+###
+
+<h2 align="center">.projects(<img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />)</h2>
+
+###
 
 ### 🚀 [GetParamURLs](https://github.com/ShrekBytes/GetParamURLs)
 
