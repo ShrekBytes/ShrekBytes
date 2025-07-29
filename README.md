@@ -71,7 +71,7 @@ A Flask-based web application that uses a trained deep learning model to detect 
 
 ###
 
-<h2 align="center">.𝚜𝚝𝚊𝚝𝚜()</h2>
+<h2 align="center">.𝚜𝚝𝚊𝚝𝚜( )</h2>
 
 ###
 
