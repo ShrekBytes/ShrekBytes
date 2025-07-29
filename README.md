@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="center">.projects( )</h2>
+<h2 align="center">.𝖕𝖗𝖔𝖏𝖊𝖈𝖙𝖘()</h2>
 
 ###
 
@@ -41,7 +41,7 @@ A Flask-based web application that uses a trained deep learning model to detect 
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-000000?style=flat-square&logo=keras)
 
-<h2 align="center">.skills( )</h2>
+<h2 align="center">.𝚜𝚔𝚒𝚕𝚕𝚜( )</h2>
 
 ###
 
@@ -71,7 +71,7 @@ A Flask-based web application that uses a trained deep learning model to detect 
 
 ###
 
-<h2 align="center">.stats( )</h2>
+<h2 align="center">.𝚜𝚝𝚊𝚝𝚜()</h2>
 
 ###
 
