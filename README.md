@@ -25,6 +25,11 @@
 
 ###
 
+### [tui_mor](https://github.com/ShrekBytes/tui_mor)
+A Flask-based web application that uses a trained deep learning model to detect brain tumors from MRI images.
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-000000?style=flat-square&logo=keras)
+
 ### [GetParamURLs](https://github.com/ShrekBytes/GetParamURLs)
 GetParamURLs is a Python script for bug bounty hunters that finds URLs with query parameters using gau and waybackurls, filters out unwanted MIME types, and removes duplicates so that you can focus only on what is important.
 
@@ -35,11 +40,7 @@ xssSick is a Python script for identifying potential Cross-Site Scripting (XSS) 
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnu-bash) 
 
-
-### [tui_mor](https://github.com/ShrekBytes/tui_mor)
-A Flask-based web application that uses a trained deep learning model to detect brain tumors from MRI images.
-
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-000000?style=flat-square&logo=keras)
+###
 
 <h2 align="center">.𝚜𝚔𝚒𝚕𝚕𝚜( )</h2>
 
