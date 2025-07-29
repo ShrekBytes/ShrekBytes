@@ -26,20 +26,20 @@
 
 ###
 
-### Languages & Scripting
+#### Languages & Scripting
 
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-000000?style=for-the-badge&logo=lua&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-000000?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### Frontends
+##### Frontends
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backends
+###### Backends
 
 ![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Database
+Database
 
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=for-the-badge&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
