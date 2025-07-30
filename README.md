@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="center">.𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜( )</h2>
+<h2 align="center">.projects(🚀)</h2>
 
 ###
 
