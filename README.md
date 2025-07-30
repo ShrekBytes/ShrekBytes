@@ -17,9 +17,9 @@
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ShrekBytes)
-[![Twitter](https://img.shields.io/badge/Twitter-000?logo=x&style=for-the-badge)](https://twitter.com/ShrekBytes)
 [![Gmail](https://img.shields.io/badge/shrekbytes@duck.com-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrekbytes@duck.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000?logo=x&style=for-the-badge)](https://twitter.com/ShrekBytes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ShrekBytes)
 
 ###
 
