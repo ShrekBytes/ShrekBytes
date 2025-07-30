@@ -17,10 +17,11 @@
 
 <br />
 
-<a href="mailto:shrekbytes@duck.com">
-  <img src="https://cdn.simpleicons.org/duckduckgo/40E0D0" alt="DuckDuckGo" width="20" style="vertical-align:middle;"/>
-  shrekbytes@duck.com
+<a href="mailto:shrekbytes@duck.com" style="text-decoration: none;">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="18" style="vertical-align: text-bottom; margin-right: 6px;"/>
+  <span style="font-family: sans-serif; color: #000;">shrekbytes@duck.com</span>
 </a>
+
 
 <br />
 [![Twitter](https://img.shields.io/badge/Twitter-000?logo=x&style=for-the-badge)](https://twitter.com/ShrekBytes)
