@@ -34,12 +34,12 @@ A Flask-based web application that uses a trained deep learning model to detect 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-000000?style=flat-square&logo=keras)
 
 ### [GetParamURLs](https://github.com/ShrekBytes/GetParamURLs)
-GetParamURLs is a Python script for bug bounty hunters that finds URLs with query parameters using gau and waybackurls, filters out unwanted MIME types, and removes duplicates so that you can focus only on what is important.
+GetParamURLs is a Python tool for bug bounty hunters that finds unique URLs with query parameters using gau and waybackurls.
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnu-bash) ![waybackurls](https://img.shields.io/badge/-waybackurls-000000?style=flat-square&logo=wayback-machine) ![gau](https://img.shields.io/badge/-gau-000000?style=flat-square&logo=gau)
 
 ### [xssSick](https://github.com/ShrekBytes/xssSick)
-xssSick is a Python script for identifying potential Cross-Site Scripting (XSS) vulnerabilities. It reads URLs from a file, modifies each URL's parameters with a gibberish value containing brackets and signs, and searches the response for reflections and matches. Found URLs are saved to an output file.
+xssSick is a Python tool for identifying potential Cross-Site Scripting (XSS) vulnerabilities. It reads URLs from a file, modifies each URL's parameters with a gibberish value containing brackets and signs, and searches the response for reflections and matches.
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnu-bash) 
 
