@@ -41,7 +41,7 @@ GetParamURLs is a Python tool for bug bounty hunters that finds unique URLs with
 ### [xssSick](https://github.com/ShrekBytes/xssSick)
 xssSick is a Python tool for identifying potential Cross-Site Scripting (XSS) vulnerabilities. It reads URLs from a file, modifies each URL's parameters with a gibberish value containing brackets and signs, and searches the response for reflections and matches.
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnu-bash) 
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![Bash](https://img.shields.io/badge/-Web Security-000000?style=flat-square&logo=hackerone) 
 
 ###
 
