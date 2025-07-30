@@ -17,11 +17,8 @@
 
 <br />
 
-<a href="mailto:shrekbytes@duck.com" style="text-decoration: none;">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="18" style="vertical-align: text-bottom; margin-right: 6px;"/>
-  <span style="font-family: sans-serif; color: #000;">shrekbytes@duck.com</span>
-</a>
 
+[![Gmail](https://img.shields.io/badge/shrekbytes@duck.com-000?style=for-the-badge&logo=gmail)](mailto:shrekbytes@duck.com)
 
 <br />
 [![Twitter](https://img.shields.io/badge/Twitter-000?logo=x&style=for-the-badge)](https://twitter.com/ShrekBytes)
