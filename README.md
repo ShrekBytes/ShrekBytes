@@ -17,7 +17,11 @@
 
 <br />
 
-<p><img src="https://cdn.simpleicons.org/gmail/40E0D0" alt="DuckDuckGo" width="20"> shrekbytes@duck.com </img><p>
+<a href="mailto:shrekbytes@duck.com">
+  <img src="https://cdn.simpleicons.org/duckduckgo/40E0D0" alt="DuckDuckGo" width="20" style="vertical-align:middle;"/>
+  shrekbytes@duck.com
+</a>
+
 <br />
 [![Twitter](https://img.shields.io/badge/Twitter-000?logo=x&style=for-the-badge)](https://twitter.com/ShrekBytes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ShrekBytes)
