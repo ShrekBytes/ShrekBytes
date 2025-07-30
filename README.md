@@ -1,5 +1,5 @@
 
-<h2 align="center">.𝚊𝚋𝚘𝚞𝚝( )</h2>
+<h2 align="center">.about(👨‍💻)</h2>
 <img align="right" height="150" src="images/gif/typing.gif"  />
 
 ###
@@ -45,7 +45,7 @@ xssSick is a Python tool for identifying potential Cross-Site Scripting (XSS) vu
 
 ###
 
-<h2 align="center">.𝚜𝚔𝚒𝚕𝚕𝚜( )</h2>
+<h2 align="center">.skills(🧠)</h2>
 
 ###
 
@@ -75,7 +75,7 @@ xssSick is a Python tool for identifying potential Cross-Site Scripting (XSS) vu
 
 ###
 
-<h2 align="center">.𝚜𝚝𝚊𝚝𝚜( )</h2>
+<h2 align="center">.stats(🧮)</h2>
 
 ###
 
