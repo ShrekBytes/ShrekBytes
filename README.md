@@ -28,6 +28,26 @@
 
 ###
 
+### 🧠 [tui_mor](https://github.com/ShrekBytes/tui_mor)
+
+A Flask-based web application powered by deep learning to detect brain tumors from MRI images with high accuracy.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+### 🔍 [GetParamURLs](https://github.com/ShrekBytes/GetParamURLs)
+
+A powerful Python tool for bug bounty hunters that discovers unique URLs with query parameters using gau and waybackurls for comprehensive reconnaissance.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Security](https://img.shields.io/badge/-Security-FF0000?style=flat-square&logo=security&logoColor=white)
+
+### ⚡ [xssSick](https://github.com/ShrekBytes/xssSick)
+
+An advanced XSS vulnerability scanner that intelligently modifies URL parameters and analyzes responses for potential Cross-Site Scripting vulnerabilities.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF6B6B?style=flat-square&logo=hackerone&logoColor=white) ![Web Security](https://img.shields.io/badge/-Web%20Security-4ECDC4?style=flat-square&logo=web&logoColor=white)
+
+
+
 ### [tui_mor](https://github.com/ShrekBytes/tui_mor)
 A Flask-based web application that uses a trained deep learning model to detect brain tumors from MRI images.
 
