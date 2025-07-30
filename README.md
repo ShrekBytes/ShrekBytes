@@ -36,7 +36,7 @@ A Flask-based web application that uses a trained deep learning model to detect 
 ### [GetParamURLs](https://github.com/ShrekBytes/GetParamURLs)
 GetParamURLs is a Python tool for bug bounty hunters that finds unique URLs with query parameters using gau and waybackurls.
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnu-bash) ![waybackurls](https://img.shields.io/badge/-waybackurls-000000?style=flat-square&logo=wayback-machine) ![gau](https://img.shields.io/badge/-gau-000000?style=flat-square&logo=gau)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnu-bash)
 
 ### [xssSick](https://github.com/ShrekBytes/xssSick)
 xssSick is a Python tool for identifying potential Cross-Site Scripting (XSS) vulnerabilities. It reads URLs from a file, modifies each URL's parameters with a gibberish value containing brackets and signs, and searches the response for reflections and matches.
