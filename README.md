@@ -14,6 +14,7 @@
 </div>
 
 ###
+[![Email](https://img.shields.io/badge/x@duck.com-40E0D0?style=for-the-badge&logo=mail&logoColor=white)](mailto:x@duck.com)
 [![Email](https://img.shields.io/badge/x@duck.com-40E0D0?style=for-the-badge&logo=duckduckgo&logoColor=white)](mailto:x@duck.com)
 [![DuckDuckGo Email](https://img.shields.io/badge/Email-DuckDuckGo-40E0D0?style=for-the-badge&logo=duckduckgo&logoColor=white)](mailto:your-email@duck.com)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrekbytes@duck.com)
