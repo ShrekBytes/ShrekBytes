@@ -110,8 +110,3 @@ xssSick is a Python tool for identifying potential Cross-Site Scripting (XSS) vu
 </details>
 -->
 
-
----
-
-💡 _"Code is like humor. When you have to explain it, it's bad." - Cory House_
-
