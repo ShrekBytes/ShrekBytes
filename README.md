@@ -14,14 +14,11 @@
 </div>
 
 ###
-
-<br />
-
 <!--
 [![Gmail](https://img.shields.io/badge/shrekbytes@duck.com-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrekbytes@duck.com)
 [![Twitter](https://img.shields.io/badge/Twitter-000?logo=x&style=for-the-badge)](https://twitter.com/ShrekBytes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ShrekBytes)
---> 
+
 
 ###
 
@@ -43,6 +40,7 @@ xssSick is a Python tool for identifying potential Cross-Site Scripting (XSS) vu
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![Bash](https://img.shields.io/badge/-Cybersecurity-000000?style=flat-square&logo=hackerone) 
 
 ###
+-->
 
 <h2 align="center">.stacks( )</h2>
 
