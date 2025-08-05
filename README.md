@@ -23,26 +23,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ShrekBytes)
 
 ###
-
+# Clean with Key Tech
 <h2 align="center">.projects( )</h2>
 
-###
+**[tui_mor](https://github.com/ShrekBytes/tui_mor)** `Python` `Flask` `TensorFlow`  
+Brain tumor detection from MRI images using deep learning
 
-### [tui_mor](https://github.com/ShrekBytes/tui_mor)
-A Flask-based web application that uses a trained deep learning model to detect brain tumors from MRI images.
+**[GetParamURLs](https://github.com/ShrekBytes/GetParamURLs)** `Python` `Bash`  
+Bug bounty tool for finding URLs with query parameters  
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-000000?style=flat-square&logo=keras)
-
-### [GetParamURLs](https://github.com/ShrekBytes/GetParamURLs)
-GetParamURLs is a Python tool for bug bounty hunters that finds unique URLs with query parameters using gau and waybackurls.
-
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnu-bash)
-
-### [xssSick](https://github.com/ShrekBytes/xssSick)
-xssSick is a Python tool for identifying potential Cross-Site Scripting (XSS) vulnerabilities. It reads URLs from a file, modifies each URL's parameters with a gibberish value containing brackets and signs, and searches the response for reflections and matches.
-
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![Bash](https://img.shields.io/badge/-Cybersecurity-000000?style=flat-square&logo=hackerone) 
-
+**[xssSick](https://github.com/ShrekBytes/xssSick)** `Python` `Security`  
+XSS vulnerability scanner for web applications
 
 <!--
 <h2 align="center">.projects( )</h2>
