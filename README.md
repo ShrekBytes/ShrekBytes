@@ -28,7 +28,7 @@
 
 ###
 
-### [tui_mor](https://github.com/ShrekBytes/tui_mor) ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-000000?style=flat-square&logo=keras)
+[tui_mor](https://github.com/ShrekBytes/tui_mor) ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-000000?style=flat-square&logo=keras)
 A Flask-based web application that uses a trained deep learning model to detect brain tumors from MRI images.
 
 ### [GetParamURLs](https://github.com/ShrekBytes/GetParamURLs)
