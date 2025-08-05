@@ -24,6 +24,7 @@
 
 ###
 
+<!--
 <h2 align="center">.projects( )</h2>
 
 ###
@@ -44,6 +45,7 @@ xssSick is a Python tool for identifying potential Cross-Site Scripting (XSS) vu
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![Bash](https://img.shields.io/badge/-Cybersecurity-000000?style=flat-square&logo=hackerone) 
 
 ###
+-->
 
 <h2 align="center">.skills( )</h2>
 
