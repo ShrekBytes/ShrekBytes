@@ -77,6 +77,7 @@ xssSick is a Python tool for identifying potential Cross-Site Scripting (XSS) vu
 
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnu-bash)
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c) ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python) ![Lua](https://img.shields.io/badge/-Lua-000000?style=for-the-badge&logo=lua)
+
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java) ![Dart](https://img.shields.io/badge/-Dart-000000?style=for-the-badge&logo=dart) ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter) ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin) ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=tailwind-css)
 ![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django) ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
