@@ -23,7 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ShrekBytes)
 
 ###
-
+<!--
 <h2 align="center">.projects( )</h2>
 
 ###
@@ -68,6 +68,28 @@ xssSick is a Python tool for identifying potential Cross-Site Scripting (XSS) vu
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=for-the-badge&logo=arduino) ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif)
 
 #### Cloud & DevOps
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase) ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker) ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux) ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
+
+-->
+
+<h2 align="center">.skills( )</h2>
+
+###
+
+![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnu-bash)
+![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c) ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python) ![Lua](https://img.shields.io/badge/-Lua-000000?style=for-the-badge&logo=lua)
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java) ![Dart](https://img.shields.io/badge/-Dart-000000?style=for-the-badge&logo=dart) ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin)
+
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter) ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin) ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=tailwind-css)
+
+![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django) ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
+
+![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
+
+![Godot](https://img.shields.io/badge/-Godot-000000?style=for-the-badge&logo=godot-engine) ![Pygame](https://img.shields.io/badge/-Pygame-000000?style=for-the-badge&logo=python)
+
+![Arduino](https://img.shields.io/badge/-Arduino-000000?style=for-the-badge&logo=arduino) ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif)
+
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase) ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker) ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux) ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
 
 
