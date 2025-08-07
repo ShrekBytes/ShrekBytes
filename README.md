@@ -12,12 +12,10 @@
   👾 a Python enthusiast.
 </p>
 </div>
-No idea why you’d want to reach me,<br />
-but sure —
-  <a href="mailto:shrekbytes@duck.com">
-    shrekbytes@duck.com
-  </a>
-<br />Use at your own risk.
+
+In a world full of poor decisions…
+You chose to contact me: shrekbytes@duck.com.
+Godspeed, brave soul.
 
 ###
 
