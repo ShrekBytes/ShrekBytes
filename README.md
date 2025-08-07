@@ -17,7 +17,7 @@ but sure —
   <a href="mailto:shrekbytes@duck.com">
     shrekbytes@duck.com
   </a>
-Good luck, I guess.
+<br />Good luck, I guess.
 
 ###
 
