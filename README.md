@@ -14,8 +14,7 @@
 </div>
 
 In a world full of poor decisions…<br />
-You chose to contact me: shrekbytes@duck.com <br/>
-Godspeed, brave soul.
+You chose to contact me: shrekbytes@duck.com
 
 ###
 
