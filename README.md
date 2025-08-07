@@ -14,8 +14,7 @@
 </div>
 
 No idea why you’d want to reach me,<br />
-but sure — shrekbytes@duck.com
-<br />Good luck, I guess.
+but sure - shrekbytes@duck.com
 
 ###
 
