@@ -17,7 +17,11 @@
 
 <br />
 
-[![Gmail](https://img.shields.io/badge/shrekbytes@duck.com-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrekbytes@duck.com)
+<p align="center">
+  <a href="mailto:shrekbytes@duck.com">
+    <img src="https://img.shields.io/badge/shrekbytes@duck.com-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 <!--
 [![Gmail](https://img.shields.io/badge/shrekbytes@duck.com-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrekbytes@duck.com)
