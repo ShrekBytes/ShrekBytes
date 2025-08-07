@@ -13,8 +13,9 @@
 </p>
 </div>
 
-In a world full of poor decisions…<br />
-You chose to contact me: shrekbytes@duck.com
+No idea why you’d want to reach me,<br />
+but sure — shrekbytes@duck.com
+<br />Good luck, I guess.
 
 ###
 
