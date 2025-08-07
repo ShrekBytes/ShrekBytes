@@ -13,7 +13,7 @@
 </p>
 </div>
 
-No idea why you’d want to reach me,<br />
+No idea why you’d wanna reach me,<br />
 but sure - shrekbytes@duck.com
 
 ###
