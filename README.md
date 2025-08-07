@@ -12,7 +12,7 @@
   👾 a Python enthusiast.
 </p>
 </div>
-I dont know why would you want to reach me,
+I dont know why would you wanna reach me,<br />
 but here you go
   <a href="mailto:shrekbytes@duck.com">
     shrekbytes@duck.com
