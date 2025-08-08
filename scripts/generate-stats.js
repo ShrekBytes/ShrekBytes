@@ -1,4 +1,3 @@
-// scripts/generate-stats.js
 const { Octokit } = require('@octokit/rest');
 const { graphql } = require('@octokit/graphql');
 const fs = require('fs');
@@ -197,17 +196,28 @@ function updateReadme(asciiStats) {
   const endIndex = readmeContent.indexOf(endMarker);
 
   if (startIndex !== -1 && endIndex !== -1) {
-    // Replace existing stats
     readmeContent = readmeContent.substring(0, startIndex) + 
                    newStatsSection + 
                    readmeContent.substring(endIndex + endMarker.length);
   } else {
-    // Add stats at the end
     readmeContent += '\n\n' + newStatsSection;
   }
 
   fs.writeFileSync(readmePath, readmeContent);
   console.log('README.md updated successfully!');
+}
+
+async function main() {
+  console.log('Fetching GitHub stats...');
+  const stats = await getGitHubStats();
+  
+  console.log('Generating ASCII stats...');
+  const asciiStats = generateASCIIStats(stats);
+  
+  console.log('Updating README.md...');
+  updateReadme(asciiStats);
+  
+  console.log('Done! ✨');
 }
 
 main().catch(console.error);
