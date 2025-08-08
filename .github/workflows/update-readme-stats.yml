@@ -1,3 +1,4 @@
+# .github/workflows/update-readme-stats.yml
 name: Update README with ASCII Stats
 
 on:
@@ -25,7 +26,7 @@ jobs:
     - name: Install dependencies
       run: |
         npm init -y
-        npm install @octokit/rest@19.0.13 @octokit/graphql@5.0.6
+        npm install @octokit/rest@19.0.13
 
     - name: Generate ASCII Stats
       run: node scripts/generate-stats.js
