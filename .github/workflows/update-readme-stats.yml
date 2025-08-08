@@ -25,7 +25,7 @@ jobs:
     - name: Install dependencies
       run: |
         npm init -y
-        npm install @octokit/rest
+        npm install @octokit/rest@19.0.13
 
     - name: Generate ASCII Stats
       run: node scripts/generate-stats.js
