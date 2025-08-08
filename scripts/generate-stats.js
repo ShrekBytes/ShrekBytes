@@ -126,40 +126,40 @@ class GitHubStatsGenerator {
     const formatNumber = (num) => num.toLocaleString();
     
     const statsLines = [
-      { label: 'Public Repos', icon: '📊', value: formatNumber(stats.publicRepos) },
-      { label: 'Total Stars', icon: '⭐', value: formatNumber(stats.totalStars) },
-      { label: 'Total Commits', icon: '💻', value: formatNumber(stats.totalCommits) },
-      { label: 'Total PRs', icon: '🔀', value: formatNumber(stats.totalPRs) },
-      { label: 'Total Issues', icon: '🐛', value: formatNumber(stats.totalIssues) },
-      { label: 'Email', icon: '📧', value: stats.email },
+      { label: 'Public Repos', value: formatNumber(stats.publicRepos) },
+      { label: 'Total Stars', value: formatNumber(stats.totalStars) },
+      { label: 'Total Commits', value: formatNumber(stats.totalCommits) },
+      { label: 'Total PRs', value: formatNumber(stats.totalPRs) },
+      { label: 'Total Issues', value: formatNumber(stats.totalIssues) },
+      { label: 'Email', value: stats.email },
     ];
 
-    // Calculate optimal box width
-    const labelColumnWidth = Math.max(...statsLines.map(line => `${line.icon} ${line.label}:`.length));
+    // Calculate column widths
+    const labelColumnWidth = Math.max(...statsLines.map(line => `${line.label}:`.length));
     const valueColumnWidth = Math.max(...statsLines.map(line => line.value.length));
-    const titleWidth = '🚀 GitHub Stats'.length;
-    
-    // Total width: left column + padding + right column + borders
-    const contentWidth = labelColumnWidth + 2 + valueColumnWidth; // 2 spaces between columns
-    const boxWidth = Math.max(contentWidth + 4, titleWidth + 4); // +4 for side padding
+    const titleText = 'GitHub Stats';
+    const titleWidth = titleText.length;
 
-    // Generate borders
+    // Total width: label + 2 spaces + value + 2 side paddings
+    const contentWidth = labelColumnWidth + 2 + valueColumnWidth;
+    const boxWidth = Math.max(contentWidth + 4, titleWidth + 4); // +4 for borders and spaces
+
+    // Borders
     const border = {
       top: '┌' + '─'.repeat(boxWidth - 2) + '┐',
       middle: '├' + '─'.repeat(boxWidth - 2) + '┤',
       bottom: '└' + '─'.repeat(boxWidth - 2) + '┘',
     };
 
-    // Generate title (centered)
-    const titleText = '🚀 GitHub Stats';
+    // Center title
     const titlePadding = Math.floor((boxWidth - 2 - titleText.length) / 2);
     const titleLine = `│${' '.repeat(titlePadding)}${titleText}${' '.repeat(boxWidth - 2 - titleText.length - titlePadding)}│`;
 
-    // Generate data lines with perfect alignment
+    // Data lines
     const dataLines = statsLines.map(line => {
-      const leftPart = `${line.icon} ${line.label}:`;
+      const leftPart = `${line.label}:`;
       const rightPart = line.value;
-      const padding = boxWidth - leftPart.length - rightPart.length - 3; // -3 for │ │
+      const padding = boxWidth - leftPart.length - rightPart.length - 4; // 4 for '│ ' + ' ' + '│'
       return `│ ${leftPart}${' '.repeat(padding)}${rightPart} │`;
     });
 
@@ -202,7 +202,7 @@ class GitHubStatsGenerator {
     }
 
     fs.writeFileSync(readmePath, content);
-    console.log('README.md updated successfully! ✨');
+    console.log('README.md updated successfully!');
   }
 
   sleep(ms) {
@@ -215,7 +215,7 @@ class GitHubStatsGenerator {
     const asciiStats = this.generateASCII(stats);
     console.log('Updating README.md...');
     this.updateReadme(asciiStats);
-    console.log('Done! 🚀');
+    console.log('Done!');
   }
 }
 
