@@ -125,49 +125,57 @@ async function getGitHubStats() {
 }
 
 function generateASCIIStats(stats) {
-  // Convert stats to strings
-  const statsText = {
-    repos: String(stats.publicRepos),
-    stars: String(stats.totalStars),
-    commits: String(stats.totalCommits),
-    prs: String(stats.totalPRs),
-    issues: String(stats.totalIssues),
-    email: stats.email
-  };
+  // Format numbers with commas for readability
+  const formatNumber = (num) => num.toLocaleString();
+  
+  const statsData = [
+    { icon: '🚀', label: 'GitHub Stats', value: '', isTitle: true },
+    { icon: '📊', label: 'Public Repos', value: formatNumber(stats.publicRepos) },
+    { icon: '⭐', label: 'Total Stars', value: formatNumber(stats.totalStars) },
+    { icon: '💻', label: 'Total Commits', value: formatNumber(stats.totalCommits) },
+    { icon: '🔀', label: 'Total PRs', value: formatNumber(stats.totalPRs) },
+    { icon: '🐛', label: 'Total Issues', value: formatNumber(stats.totalIssues) },
+    { icon: '📧', label: 'Email', value: stats.email }
+  ];
 
-  // Find the longest value to determine box width
-  const longestValue = Math.max(
-    ...Object.values(statsText).map(val => val.length),
-    20 // minimum width
-  );
+  // Calculate the width needed
+  const maxLabelLength = Math.max(...statsData.filter(s => !s.isTitle).map(s => s.label.length));
+  const maxValueLength = Math.max(...statsData.filter(s => !s.isTitle).map(s => s.value.length));
+  const titleLength = 'GitHub Stats'.length;
+  
+  // Box width calculation: icon + space + label + colon + space + value + padding
+  const contentWidth = 2 + maxLabelLength + 2 + maxValueLength + 4; // 2 for icon+space, 2 for ": ", 4 for padding
+  const boxWidth = Math.max(contentWidth, titleLength + 6, 35);
 
-  // Calculate box width (longest value + labels + padding)
-  const boxWidth = Math.max(45, longestValue + 25);
   const topBorder = '┌' + '─'.repeat(boxWidth - 2) + '┐';
   const middleBorder = '├' + '─'.repeat(boxWidth - 2) + '┤';
   const bottomBorder = '└' + '─'.repeat(boxWidth - 2) + '┘';
 
-  // Helper function to create properly spaced lines
-  function createLine(icon, label, value) {
-    const content = `${icon} ${label}:`;
-    const padding = boxWidth - content.length - value.length - 3; // 3 for │ spaces │
-    return `│ ${content}${' '.repeat(padding)}${value} │`;
-  }
+  // Create title line (centered)
+  const titleText = '🚀 GitHub Stats';
+  const titlePadding = Math.floor((boxWidth - 2 - titleText.length) / 2);
+  const titleLeftPad = ' '.repeat(titlePadding);
+  const titleRightPad = ' '.repeat(boxWidth - 2 - titleText.length - titlePadding);
+  const titleLine = `│${titleLeftPad}${titleText}${titleRightPad}│`;
 
-  const asciiStats = `
-${topBorder}
-│${' '.repeat(Math.floor((boxWidth - 16) / 2))}🚀 GitHub Stats${' '.repeat(Math.ceil((boxWidth - 16) / 2))}│
-${middleBorder}
-${createLine('📊', 'Public Repos', statsText.repos)}
-${createLine('⭐', 'Total Stars', statsText.stars)}
-${createLine('💻', 'Total Commits', statsText.commits)}
-${createLine('🔀', 'Total PRs', statsText.prs)}
-${createLine('🐛', 'Total Issues', statsText.issues)}
-${createLine('📧', 'Email', statsText.email)}
-${bottomBorder}
-`;
+  // Create data lines (left aligned with proper spacing)
+  const dataLines = statsData
+    .filter(item => !item.isTitle)
+    .map(item => {
+      const leftPart = `${item.icon} ${item.label}:`;
+      const spaces = boxWidth - leftPart.length - item.value.length - 3; // 3 for │ and │
+      return `│ ${leftPart}${' '.repeat(spaces)}${item.value} │`;
+    });
 
-  return asciiStats.trim();
+  const asciiStats = [
+    topBorder,
+    titleLine,
+    middleBorder,
+    ...dataLines,
+    bottomBorder
+  ].join('\n');
+
+  return asciiStats;
 }
 
 function updateReadme(asciiStats) {
