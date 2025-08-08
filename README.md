@@ -127,6 +127,7 @@ xssSick is a Python tool for identifying potential Cross-Site Scripting (XSS) vu
   | ![Tether Logo](images/icons/usdt.png)       | TRQQYTPxb541rHRondrvjMKjKGUbQFth1g         |
 </details>
 -->
+<p align="center">
 
 <!-- ASCII_STATS_START -->
 ```
@@ -142,3 +143,4 @@ xssSick is a Python tool for identifying potential Cross-Site Scripting (XSS) vu
 └─────────────────────────────────────┘
 ```
 <!-- ASCII_STATS_END -->
+</p>
