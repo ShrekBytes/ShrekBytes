@@ -136,7 +136,7 @@ xssSick is a Python tool for identifying potential Cross-Site Scripting (XSS) vu
 ├─────────────────────────────────────┤
 │ Public Repos:                    14 │
 │ Total Stars:                      9 │
-│ Total Commits:                  768 │
+│ Total Commits:                  769 │
 │ Total PRs:                        1 │
 │ Total Issues:                     3 │
 │ Email:          shrekbytes@duck.com │
