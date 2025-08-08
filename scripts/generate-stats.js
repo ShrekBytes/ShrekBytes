@@ -121,56 +121,57 @@ class GitHubStatsGenerator {
       process.exit(1);
     }
   }
+generateASCII(stats) {
+  const formatNumber = (num) => num.toLocaleString();
 
-  generateASCII(stats) {
-    const formatNumber = (num) => num.toLocaleString();
-    
-    const statsLines = [
-      { label: 'Public Repos', value: formatNumber(stats.publicRepos) },
-      { label: 'Total Stars', value: formatNumber(stats.totalStars) },
-      { label: 'Total Commits', value: formatNumber(stats.totalCommits) },
-      { label: 'Total PRs', value: formatNumber(stats.totalPRs) },
-      { label: 'Total Issues', value: formatNumber(stats.totalIssues) },
-      { label: 'Email', value: stats.email },
-    ];
+  const statsLines = [
+    { label: 'Public Repos', value: formatNumber(stats.publicRepos) },
+    { label: 'Total Stars', value: formatNumber(stats.totalStars) },
+    { label: 'Total Commits', value: formatNumber(stats.totalCommits) },
+    { label: 'Total PRs', value: formatNumber(stats.totalPRs) },
+    { label: 'Total Issues', value: formatNumber(stats.totalIssues) },
+    { label: 'Email', value: stats.email },
+  ];
 
-    // Calculate column widths
-    const labelColumnWidth = Math.max(...statsLines.map(line => `${line.label}:`.length));
-    const valueColumnWidth = Math.max(...statsLines.map(line => line.value.length));
-    const titleText = 'GitHub Stats';
-    const titleWidth = titleText.length;
+  // Determine widths
+  const labelColumnWidth = Math.max(...statsLines.map(line => line.label.length));
+  const valueColumnWidth = Math.max(...statsLines.map(line => line.value.length));
+  const titleText = 'GitHub Stats';
+  const titleWidth = titleText.length;
 
-    // Total width: label + 2 spaces + value + 2 side paddings
-    const contentWidth = labelColumnWidth + 2 + valueColumnWidth;
-    const boxWidth = Math.max(contentWidth + 4, titleWidth + 4); // +4 for borders and spaces
+  // Total width = label + colon + underscores + value + borders & spaces
+  const contentWidth = labelColumnWidth + 1 +  // label + colon
+                       5 +                      // min underscores, you can adjust
+                       valueColumnWidth;
+  const boxWidth = Math.max(contentWidth + 4, titleWidth + 4); // +4 for borders and spaces
 
-    // Borders
-    const border = {
-      top: '┌' + '─'.repeat(boxWidth - 2) + '┐',
-      middle: '├' + '─'.repeat(boxWidth - 2) + '┤',
-      bottom: '└' + '─'.repeat(boxWidth - 2) + '┘',
-    };
+  // Borders
+  const border = {
+    top: '┌' + '─'.repeat(boxWidth - 2) + '┐',
+    middle: '├' + '─'.repeat(boxWidth - 2) + '┤',
+    bottom: '└' + '─'.repeat(boxWidth - 2) + '┘',
+  };
 
-    // Center title
-    const titlePadding = Math.floor((boxWidth - 2 - titleText.length) / 2);
-    const titleLine = `│${' '.repeat(titlePadding)}${titleText}${' '.repeat(boxWidth - 2 - titleText.length - titlePadding)}│`;
+  // Center title
+  const titlePadding = Math.floor((boxWidth - 2 - titleText.length) / 2);
+  const titleLine = `│${' '.repeat(titlePadding)}${titleText}${' '.repeat(boxWidth - 2 - titleText.length - titlePadding)}│`;
 
-    // Data lines
-    const dataLines = statsLines.map(line => {
-      const leftPart = `${line.label}:`;
-      const rightPart = line.value;
-      const padding = boxWidth - leftPart.length - rightPart.length - 4; // 4 for '│ ' + ' ' + '│'
-      return `│ ${leftPart}${' '.repeat(padding)}${rightPart} │`;
-    });
+  // Data lines with underscore fillers
+  const dataLines = statsLines.map(line => {
+    const leftPart = `${line.label}:`;
+    const totalFillLength = boxWidth - 4 - leftPart.length - line.value.length; // 4 = 2 borders + 2 spaces
+    const fill = '_'.repeat(totalFillLength > 0 ? totalFillLength : 0);
+    return `│ ${leftPart}${fill}${line.value} │`;
+  });
 
-    return [
-      border.top,
-      titleLine,
-      border.middle,
-      ...dataLines,
-      border.bottom
-    ].join('\n');
-  }
+  return [
+    border.top,
+    titleLine,
+    border.middle,
+    ...dataLines,
+    border.bottom
+  ].join('\n');
+}
 
   updateReadme(asciiStats) {
     const readmePath = 'README.md';
