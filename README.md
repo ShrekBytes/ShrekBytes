@@ -133,7 +133,18 @@ xssSick is a Python tool for identifying potential Cross-Site Scripting (XSS) vu
 Some content here...
 
 <!-- ASCII_STATS_START -->
-<!-- This will be automatically updated by the GitHub Action -->
+```
+┌─────────────────────────────────────────┐
+│            🚀 GitHub Stats              │
+├─────────────────────────────────────────┤
+│  📊 Public Repos:                 14 │
+│  ⭐ Total Stars:                   9 │
+│  💻 Total Commits:               270 │
+│  🔀 Total PRs:                     1 │
+│  🐛 Total Issues:                  3 │
+│  📧 Email: shrekbytes@duck.com        │
+└─────────────────────────────────────────┘
+```
 <!-- ASCII_STATS_END -->
 
 More content here...
