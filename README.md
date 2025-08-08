@@ -127,20 +127,3 @@ xssSick is a Python tool for identifying potential Cross-Site Scripting (XSS) vu
   | ![Tether Logo](images/icons/usdt.png)       | TRQQYTPxb541rHRondrvjMKjKGUbQFth1g         |
 </details>
 -->
-<p align="center">
-
-<!-- ASCII_STATS_START -->
-```
-┌─────────────────────────────────────┐
-│            GitHub Stats             │
-├─────────────────────────────────────┤
-│ Public Repos:                    14 │
-│ Total Stars:                      9 │
-│ Total Commits:                  771 │
-│ Total PRs:                        1 │
-│ Total Issues:                     3 │
-│ Email:          shrekbytes@duck.com │
-└─────────────────────────────────────┘
-```
-<!-- ASCII_STATS_END -->
-</p>
