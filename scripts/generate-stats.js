@@ -32,41 +32,51 @@ async function getGitHubStats() {
     const publicRepos = user.public_repos;
     const email = user.email || 'Not public';
 
-    // Get total commits using GraphQL (includes private repos and all years)
+    // Get total commits using GraphQL (ALL TIME - includes private repos and all years)
     let totalCommits = 0;
     try {
-      const query = `
-        query($username: String!) {
-          user(login: $username) {
-            contributionsCollection {
-              totalCommitContributions
-            }
-            contributionsCollection(from: "2008-01-01T00:00:00Z") {
-              totalCommitContributions
-            }
-          }
-        }
-      `;
+      // Get user's join date to query from their account creation
+      const joinYear = new Date(user.created_at).getFullYear();
       
-      const result = await graphqlWithAuth(query, { username });
-      totalCommits = result.user.contributionsCollection.totalCommitContributions;
+      // Query all years from join date to current year
+      const currentYear = new Date().getFullYear();
       
-      // If that doesn't work, try getting all-time contributions
-      if (totalCommits === 0) {
-        const allTimeQuery = `
-          query($username: String!) {
-            user(login: $username) {
-              contributionsCollection {
-                totalCommitContributions
-                restrictedContributionsCount
+      for (let year = joinYear; year <= currentYear; year++) {
+        try {
+          const yearQuery = `
+            query($username: String!, $from: DateTime!, $to: DateTime!) {
+              user(login: $username) {
+                contributionsCollection(from: $from, to: $to) {
+                  totalCommitContributions
+                  restrictedContributionsCount
+                }
               }
             }
-          }
-        `;
-        const allTimeResult = await graphqlWithAuth(allTimeQuery, { username });
-        totalCommits = allTimeResult.user.contributionsCollection.totalCommitContributions + 
-                      allTimeResult.user.contributionsCollection.restrictedContributionsCount;
+          `;
+          
+          const fromDate = `${year}-01-01T00:00:00Z`;
+          const toDate = `${year}-12-31T23:59:59Z`;
+          
+          const yearResult = await graphqlWithAuth(yearQuery, { 
+            username, 
+            from: fromDate, 
+            to: toDate 
+          });
+          
+          const yearCommits = yearResult.user.contributionsCollection.totalCommitContributions + 
+                             yearResult.user.contributionsCollection.restrictedContributionsCount;
+          
+          totalCommits += yearCommits;
+          console.log(`Year ${year}: ${yearCommits} commits`);
+          
+          // Small delay to avoid rate limiting
+          await new Promise(resolve => setTimeout(resolve, 100));
+        } catch (error) {
+          console.log(`Could not fetch commits for year ${year}`);
+        }
       }
+      
+      console.log(`Total commits across all years: ${totalCommits}`);
     } catch (error) {
       console.log('Could not fetch total commit data via GraphQL, falling back to REST API');
       // Fallback to original method
@@ -128,7 +138,6 @@ function generateASCIIStats(stats) {
   const formatNumber = (num) => num.toLocaleString();
   
   const statsData = [
-    { icon: '🚀', label: 'GitHub Stats', value: '', isTitle: true },
     { icon: '📊', label: 'Public Repos', value: formatNumber(stats.publicRepos) },
     { icon: '⭐', label: 'Total Stars', value: formatNumber(stats.totalStars) },
     { icon: '💻', label: 'Total Commits', value: formatNumber(stats.totalCommits) },
@@ -137,14 +146,16 @@ function generateASCIIStats(stats) {
     { icon: '📧', label: 'Email', value: stats.email }
   ];
 
-  // Calculate the width needed
-  const maxLabelLength = Math.max(...statsData.filter(s => !s.isTitle).map(s => s.label.length));
-  const maxValueLength = Math.max(...statsData.filter(s => !s.isTitle).map(s => s.value.length));
-  const titleLength = 'GitHub Stats'.length;
+  // Calculate box width based on longest line
+  const longestLine = Math.max(
+    ...statsData.map(item => {
+      const line = `${item.icon} ${item.label}: ${item.value}`;
+      return line.length;
+    }),
+    '🚀 GitHub Stats'.length
+  );
   
-  // Box width calculation: icon + space + label + colon + space + value + padding
-  const contentWidth = 2 + maxLabelLength + 2 + maxValueLength + 4; // 2 for icon+space, 2 for ": ", 4 for padding
-  const boxWidth = Math.max(contentWidth, titleLength + 6, 35);
+  const boxWidth = longestLine + 4; // +4 for padding (2 spaces on each side)
 
   const topBorder = '┌' + '─'.repeat(boxWidth - 2) + '┐';
   const middleBorder = '├' + '─'.repeat(boxWidth - 2) + '┤';
@@ -157,14 +168,12 @@ function generateASCIIStats(stats) {
   const titleRightPad = ' '.repeat(boxWidth - 2 - titleText.length - titlePadding);
   const titleLine = `│${titleLeftPad}${titleText}${titleRightPad}│`;
 
-  // Create data lines (left aligned with proper spacing)
-  const dataLines = statsData
-    .filter(item => !item.isTitle)
-    .map(item => {
-      const leftPart = `${item.icon} ${item.label}:`;
-      const spaces = boxWidth - leftPart.length - item.value.length - 3; // 3 for │ and │
-      return `│ ${leftPart}${' '.repeat(spaces)}${item.value} │`;
-    });
+  // Create data lines with proper right alignment
+  const dataLines = statsData.map(item => {
+    const leftPart = `${item.icon} ${item.label}:`;
+    const totalSpaces = boxWidth - leftPart.length - item.value.length - 3; // -3 for │ │
+    return `│ ${leftPart}${' '.repeat(totalSpaces)}${item.value} │`;
+  });
 
   const asciiStats = [
     topBorder,
