@@ -160,7 +160,7 @@ generateASCII(stats) {
   const dataLines = statsLines.map(line => {
     const leftPart = `${line.label}:`;
     const totalFillLength = boxWidth - 4 - leftPart.length - line.value.length; // 4 = 2 borders + 2 spaces
-    const fill = '_'.repeat(totalFillLength > 0 ? totalFillLength : 0);
+    const fill = '.'.repeat(totalFillLength > 0 ? totalFillLength : 0);
     return `│ ${leftPart}${fill}${line.value} │`;
   });
 
