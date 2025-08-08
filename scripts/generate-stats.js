@@ -187,7 +187,8 @@ class GitHubStatsGenerator {
       end: '<!-- ASCII_STATS_END -->'
     };
 
-    const newSection = `${markers.start}\n\`\`\`\n${asciiStats}\n\`\`\`\n${markers.end}`;
+    // Wrap ASCII art inside <pre> tags instead of triple backticks
+    const newSection = `${markers.start}\n<pre>\n${asciiStats}\n</pre>\n${markers.end}`;
     const startIndex = content.indexOf(markers.start);
     const endIndex = content.indexOf(markers.end);
 
