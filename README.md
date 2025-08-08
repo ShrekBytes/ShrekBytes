@@ -128,3 +128,12 @@ xssSick is a Python tool for identifying potential Cross-Site Scripting (XSS) vu
 </details>
 -->
 
+# Your Profile
+
+Some content here...
+
+<!-- ASCII_STATS_START -->
+<!-- This will be automatically updated by the GitHub Action -->
+<!-- ASCII_STATS_END -->
+
+More content here...
