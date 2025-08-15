@@ -13,8 +13,8 @@
 </p>
 </div>
 
-Want to know more about me? https://shrekbytes.netlify.app
-or mail me shrekbytes@duck.com
+Want to know more about me? https://shrekbytes.netlify.app <br />
+or reach me shrekbytes@duck.com
 
 ###
 
