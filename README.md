@@ -13,8 +13,8 @@
 </p>
 </div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shrekbytes.netlify.app-blue?style=for-the-badge&logo=netlify)](https://shrekbytes.netlify.app)
-[![Email](https://img.shields.io/badge/Email-shrekbytes@duck.com-red?style=for-the-badge&logo=gmail)](mailto:shrekbytes@duck.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://shrekbytes.netlify.app)
+[![Email](https://img.shields.io/badge/shrekbytes@duck.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrekbytes@duck.com)
 
 
 ###
