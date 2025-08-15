@@ -13,9 +13,8 @@
 </p>
 </div>
 
-Want to know more about me?  
-📫 Email: **shrekbytes@duck.com**  
-🌐 Portfolio: [shrekbytes.netlify.app](https://shrekbytes.netlify.app/)
+Want to know more about me? https://shrekbytes.netlify.app
+or mail me shrekbytes@duck.com
 
 ###
 
