@@ -13,8 +13,14 @@
 </p>
 </div>
 
-Want to know more about me?  
-![Portfolio](https://img.shields.io/badge/Portfolio-shrekbytes.netlify.app-blue?style=for-the-badge) ![Email](https://img.shields.io/badge/Email-shrekbytes@duck.com-green?style=for-the-badge)
+<p align="center">
+  <a href="https://shrekbytes.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-blue?style=for-the-badge"/>
+  </a>
+  <a href="mailto:shrekbytes@duck.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-green?style=for-the-badge"/>
+  </a>
+</p>
 
 
 ###
