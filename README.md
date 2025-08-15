@@ -14,7 +14,7 @@
 </div>
 
 [![Email](https://img.shields.io/badge/shrekbytes@duck.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrekbytes@duck.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-330033?style=for-the-badge&logo=netlify&logoColor=white)](https://shrekbytes.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2F4F4F?style=for-the-badge&logo=netlify&logoColor=white)](https://shrekbytes.netlify.app)
 
 
 ###
