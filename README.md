@@ -13,8 +13,9 @@
 </p>
 </div>
 
-🌐 https://shrekbytes.netlify.app <br />
-✉️ shrekbytes@duck.com
+Want to know more about me?  
+![Portfolio](https://img.shields.io/badge/Portfolio-shrekbytes.netlify.app-blue?style=for-the-badge) ![Email](https://img.shields.io/badge/Email-shrekbytes@duck.com-green?style=for-the-badge)
+
 
 ###
 
