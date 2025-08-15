@@ -13,7 +13,7 @@
 </p>
 </div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://shrekbytes.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-330033?style=flat&logo=portfolio&logoColor=white)](https://shrekbytes.netlify.app)
 [![Email](https://img.shields.io/badge/shrekbytes@duck.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrekbytes@duck.com)
 
 
