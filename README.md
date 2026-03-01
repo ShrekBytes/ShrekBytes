@@ -11,6 +11,7 @@ I am...<br>
 👾 a memer<br>
 ⚙️ an aspiring DevOps Engineer<br>
 💻 a Tech Enthusiast
+  DevOps | Backend | QA & Security
 </p>
 </div>
 
