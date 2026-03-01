@@ -10,14 +10,6 @@
 💻 Backend Developer<br><br>
 🎮 Gamer | 👾 Memer | 🖱️ Tech Enthusiast
 
-  <!-- 
-  <p>
-    ⚙️ DevOps Engineer | 💻 Backend<br>
-    💻 Backend | QA & Security<br>
-    🎮 Gamer | 👾 Memer | 💻 Tech Enthusiast
-  </p>
-  -->
-
 </div>
 
 [![Email](https://img.shields.io/badge/shrekbytes@duck.com-2f3f4f?style=for-the-badge&logo=gmail&logoColor=red)](mailto:shrekbytes@duck.com)
@@ -26,87 +18,12 @@
 
 ###
 
-<!--
-[![Gmail](https://img.shields.io/badge/shrekbytes@duck.com-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrekbytes@duck.com)
-[![Twitter](https://img.shields.io/badge/Twitter-000?logo=x&style=for-the-badge)](https://twitter.com/ShrekBytes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ShrekBytes)
-
-
-###
-
-<h2 align="center">.projects( )</h2>
-
-###
-
-### [tui_mor](https://github.com/ShrekBytes/tui_mor) ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-000000?style=flat-square&logo=keras)
-A Flask-based web application that uses a trained deep learning model to detect brain tumors from MRI images.
-
-### [GetParamURLs](https://github.com/ShrekBytes/GetParamURLs)
-GetParamURLs is a Python tool for bug bounty hunters that finds unique URLs with query parameters using gau and waybackurls.
-
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnu-bash)
-
-### [xssSick](https://github.com/ShrekBytes/xssSick)
-xssSick is a Python tool for identifying potential Cross-Site Scripting (XSS) vulnerabilities. It reads URLs from a file, modifies each URL's parameters with a gibberish value containing brackets and signs, and searches the response for reflections and matches.
-
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python) ![Bash](https://img.shields.io/badge/-Cybersecurity-000000?style=flat-square&logo=hackerone) 
-
-###
-
-
-<h2 align="center">.stacks( )</h2>
-
-###
-
-![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnu-bash)
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c) ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python) ![Lua](https://img.shields.io/badge/-Lua-000000?style=for-the-badge&logo=lua)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java) ![Dart](https://img.shields.io/badge/-Dart-000000?style=for-the-badge&logo=dart) ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin)
-
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter) ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin) ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=tailwind-css)
-
-![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django) ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
-
-![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
-
-![Godot](https://img.shields.io/badge/-Godot-000000?style=for-the-badge&logo=godot-engine) ![Pygame](https://img.shields.io/badge/-Pygame-000000?style=for-the-badge&logo=python)
-
-![Arduino](https://img.shields.io/badge/-Arduino-000000?style=for-the-badge&logo=arduino) ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif)
-
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase) ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker) ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux) ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
-
-<!--
-#### Languages & Scripting
-![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnu-bash)
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c) ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python) ![Lua](https://img.shields.io/badge/-Lua-000000?style=for-the-badge&logo=lua)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java) ![Dart](https://img.shields.io/badge/-Dart-000000?style=for-the-badge&logo=dart) ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin)
-
-#### Frontend
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter) ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin) ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=tailwind-css)
-
-#### Backend
-![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django) ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
-
-#### Design & Prototyping
-![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
-
-#### Game Development
-![Godot](https://img.shields.io/badge/-Godot-000000?style=for-the-badge&logo=godot-engine) ![Pygame](https://img.shields.io/badge/-Pygame-000000?style=for-the-badge&logo=python)
-
-#### Hardware & IoT
-![Arduino](https://img.shields.io/badge/-Arduino-000000?style=for-the-badge&logo=arduino) ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif)
-
-#### Cloud & DevOps
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase) ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker) ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux) ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
--->
-###
-
 <h2 align="center">.stats( )</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats-six-seven.vercel.app/api?username=ShrekBytes&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="167" alt="stats graph"  />
-  
 
 </div>
 
@@ -118,7 +35,7 @@ xssSick is a Python tool for identifying potential Cross-Site Scripting (XSS) vu
 <details>
   <summary><h2 align="center">🎁 Support</h2></summary>
   
-  ---
+  ###
   
   <p align="center">Thank you for your support!</p>
 
@@ -131,30 +48,3 @@ xssSick is a Python tool for identifying potential Cross-Site Scripting (XSS) vu
 </details>
 -->
 
-
-<div align="center">
-
-**📊 Stats**
-
-<img src="https://github-readme-stats-six-seven.vercel.app/api?username=ShrekBytes&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" width="60%" alt="stats" />
-
-</div>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
-<tr>
-<td align="left" width="50%" valign="top">
-
-**⚙️ DevOps**
-
-<img src="https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker" /> <img src="https://img.shields.io/badge/-Kubernetes-000000?style=for-the-badge&logo=kubernetes" /> <img src="https://img.shields.io/badge/-GitHub_Actions-000000?style=for-the-badge&logo=githubactions" /> <img src="https://img.shields.io/badge/-Jenkins-000000?style=for-the-badge&logo=jenkins" /> <img src="https://img.shields.io/badge/-Terraform-000000?style=for-the-badge&logo=terraform" /> <img src="https://img.shields.io/badge/-Ansible-000000?style=for-the-badge&logo=ansible" /> <img src="https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazonwebservices" /> <img src="https://img.shields.io/badge/-GCP-000000?style=for-the-badge&logo=googlecloud" /> <img src="https://img.shields.io/badge/-Prometheus-000000?style=for-the-badge&logo=prometheus" /> <img src="https://img.shields.io/badge/-Grafana-000000?style=for-the-badge&logo=grafana" /> <img src="https://img.shields.io/badge/-Cloudflare-000000?style=for-the-badge&logo=cloudflare" /> <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git" /> <img src="https://img.shields.io/badge/-Pytest-000000?style=for-the-badge&logo=pytest" />
-
-</td>
-<td align="left" width="50%" valign="top">
-
-**🐍 Backend**
-
-<img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django" /> <img src="https://img.shields.io/badge/-DRF-000000?style=for-the-badge&logo=django" /> <img src="https://img.shields.io/badge/-Celery-000000?style=for-the-badge&logo=celery" /> <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql" /> <img src="https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql" /> <img src="https://img.shields.io/badge/-Redis-000000?style=for-the-badge&logo=redis" /> <img src="https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens" /> <img src="https://img.shields.io/badge/-GraphQL-000000?style=for-the-badge&logo=graphql" /> <img src="https://img.shields.io/badge/-RabbitMQ-000000?style=for-the-badge&logo=rabbitmq" /> <img src="https://img.shields.io/badge/-Swagger-000000?style=for-the-badge&logo=swagger" /> <img src="https://img.shields.io/badge/-Nginx-000000?style=for-the-badge&logo=nginx" /> <img src="https://img.shields.io/badge/-Gunicorn-000000?style=for-the-badge&logo=gunicorn" />
-
-</td>
-</tr>
-</table>
