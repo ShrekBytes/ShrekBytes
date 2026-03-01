@@ -9,6 +9,7 @@
   <p>
 ⚙️ DevOps Engineer<br>
 💻 Backend Developer<br>
+    <br>
 🎮 Gamer | 👾 Memer | 💻 Tech Enthusiast
 </p>
 
