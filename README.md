@@ -7,9 +7,9 @@
 <div align="left">
 
   <p>
-    <span style="font-size:18px;">⚙️ DevOps Engineer</span><br><br>
-    <span style="font-size:18px;">💻 Backend Developer</span><br><br>
-    <span style="font-size:14px;">🎮 Gamer | 👾 Memer | 💻 Tech Enthusiast</span>
+    <span style="font-size:18px; margin-bottom:4px; display:block;">⚙️ DevOps Engineer</span>
+    <span style="font-size:18px; margin-bottom:4px; display:block;">💻 Backend Developer</span>
+    <span style="font-size:14px; display:block;">🎮 Gamer | 👾 Memer | 💻 Tech Enthusiast</span>
   </p>
 
   <!-- 
