@@ -7,21 +7,18 @@
 <div align="left">
 
   <p>
-          <br />
-⚙️ DevOps Engineer<br>
-    <br />
-💻 Backend Developer<br>
-     <br />
-🎮 Gamer | 👾 Memer | 💻 Tech Enthusiast
-</p>
+    <span style="font-size:18px;">⚙️ DevOps Engineer</span><br><br>
+    <span style="font-size:18px;">💻 Backend Developer</span><br><br>
+    <span style="font-size:14px;">🎮 Gamer | 👾 Memer | 💻 Tech Enthusiast</span>
+  </p>
 
-<!-- 
-<p>
-⚙️ DevOps Engineer | 💻 Backend<br>
-💻 Backend | QA & Security<br>
-🎮 Gamer | 👾 Memer | 💻 Tech Enthusiast
-</p>
--->
+  <!-- 
+  <p>
+    ⚙️ DevOps Engineer | 💻 Backend<br>
+    💻 Backend | QA & Security<br>
+    🎮 Gamer | 👾 Memer | 💻 Tech Enthusiast
+  </p>
+  -->
 
 </div>
 
