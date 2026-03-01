@@ -6,11 +6,9 @@
 
 <div align="left">
 
-  <p>
-    <span style="font-size:18px; margin-bottom:4px; display:block;">⚙️ DevOps Engineer</span>
-    <span style="font-size:18px; margin-bottom:4px; display:block;">💻 Backend Developer</span>
-    <span style="font-size:14px; display:block;">🎮 Gamer | 👾 Memer | 💻 Tech Enthusiast</span>
-  </p>
+  <h4>⚙️ DevOps Engineer</h4><br>
+  <h4>💻 Backend Developer</h4><br>
+  <small>🎮 Gamer | 👾 Memer | 💻 Tech Enthusiast</small>
 
   <!-- 
   <p>
