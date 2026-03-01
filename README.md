@@ -9,7 +9,7 @@
 I am...<br>
 🎮 a gamer<br>
 👾 a memer<br>
-⚙️ an DevOps Engineer<br>
+⚙️ a DevOps Engineer<br>
 💻 a Tech Enthusiast
   <!-- DevOps | Backend | QA & Security -->
 </p>
