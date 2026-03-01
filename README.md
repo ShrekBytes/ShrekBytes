@@ -8,8 +8,8 @@
 <p>
 I am...<br>
 🎮 a Gamer,<br>
-🕸️ a Memer,<br>
-👾 an aspiring DevOps Engineer,<br>
+👾 a Memer,<br>
+⚙️ an aspiring DevOps Engineer,<br>
 💻 and a Tech Enthusiast.
 </p>
 </div>
