@@ -6,10 +6,9 @@
 
 <div align="left">
 
-  ⚙️ DevOps Engineer<br><br>
-  💻 Backend Developer<br>
-  ######
-  <small>🎮 Gamer | 👾 Memer | 💻 Tech Enthusiast</small>
+⚙️ DevOps Engineer<br>&nbsp;
+💻 Backend Developer<br>&nbsp;
+🎮 Gamer | 👾 Memer | 💻 Tech Enthusiast
 
   <!-- 
   <p>
