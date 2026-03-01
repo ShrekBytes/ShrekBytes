@@ -7,8 +7,8 @@
 <div align="left">
 <p>
 I am...<br>
-🎮 a Gamer,<br>
-👾 a Memer,<br>
+🎮 a gamer,<br>
+👾 a memer,<br>
 ⚙️ an aspiring DevOps Engineer,<br>
 💻 and a Tech Enthusiast.
 </p>
