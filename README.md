@@ -6,9 +6,12 @@
 
 <div align="left">
   <p>
-🎮 Gamer • 🕸️ Memer<br>
-⚙️ Aspiring DevOps Engineer<br>
+     I am...<br>
+  🎮 a Gamer,<br>
+  🕸️ a Memer,<br>
+  👾 an aspiring DevOps Engineer<br>
 💻 Exploring Development • 🧪 QA • 🔐 Cybersecurity
+
 </p>
 </div>
 
