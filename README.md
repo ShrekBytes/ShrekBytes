@@ -6,8 +6,8 @@
 
 <div align="left">
 
-  <h4>⚙️ DevOps Engineer</h5>
-  <h4>💻 Backend Developer</h5>
+  <h6>⚙️ DevOps Engineer</h6>
+  <h6>💻 Backend Developer</h6>
   <small>🎮 Gamer | 👾 Memer | 💻 Tech Enthusiast</small>
 
   <!-- 
