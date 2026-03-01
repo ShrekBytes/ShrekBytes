@@ -6,10 +6,9 @@
 
 <div align="left">
   <p>
-  I am...<br>
-  🎮 a gamer,<br>
-  🕸️ a bug bounty hunter,<br>
-  👾 a Python enthusiast.
+🎮 Gamer • 🕸️ Memer<br>
+⚙️ Aspiring DevOps Engineer<br>
+💻 Exploring Development • 🧪 QA • 🔐 Cybersecurity
 </p>
 </div>
 
