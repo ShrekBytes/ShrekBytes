@@ -7,8 +7,8 @@
 ⚙️ DevOps Engineer<br><br>
 💻 Backend Developer<br><br>
 🎮 Gamer &nbsp;|&nbsp; 👾 Memer &nbsp;|&nbsp; 💡 Tech Enthusiast
-🎮 Gamer • 👾 Memer • 💡 Tech Enthusiast
-🎮 Gamer / 👾 Memer / 💡 Tech Enthusiast
+🎮 Gamer • 👾 Memer • 💡 Tech Enthusiast<br>
+🎮 Gamer / 👾 Memer / 💡 Tech Enthusiast<br>
 🎮 Gamer 👾 Memer 💡 Tech Enthusiast
 
 </div>
