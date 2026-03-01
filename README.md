@@ -9,9 +9,9 @@
 I am...<br>
 🎮 a gamer<br>
 👾 a memer<br>
-⚙️ an aspiring DevOps Engineer<br>
+⚙️ an DevOps Engineer<br>
 💻 a Tech Enthusiast
-  DevOps | Backend | QA & Security
+  <!-- DevOps | Backend | QA & Security -->
 </p>
 </div>
 
