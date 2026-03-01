@@ -7,10 +7,10 @@
 <div align="left">
 <p>
 I am...<br>
-🎮 a gamer,<br>
-👾 a memer,<br>
-⚙️ an aspiring DevOps Engineer,<br>
-💻 & a Tech Enthusiast.
+🎮 a gamer<br>
+👾 a memer<br>
+⚙️ an aspiring DevOps Engineer<br>
+💻 a Tech Enthusiast
 </p>
 </div>
 
