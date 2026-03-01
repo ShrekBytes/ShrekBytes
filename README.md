@@ -6,8 +6,8 @@
 
 <div align="left">
 
-    <br />
   <p>
+          <br />
 ⚙️ DevOps Engineer<br>
 💻 Backend Developer<br>
 🎮 Gamer | 👾 Memer | 💻 Tech Enthusiast
