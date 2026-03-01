@@ -5,13 +5,12 @@
 ###
 
 <div align="left">
-  <p>
-     I am...<br>
-  🎮 a Gamer,<br>
-  🕸️ a Memer,<br>
-  👾 an aspiring DevOps Engineer<br>
-💻 Exploring Development • 🧪 QA • 🔐 Cybersecurity
-
+<p>
+I am...<br>
+🎮 a Gamer,<br>
+🕸️ a Memer,<br>
+👾 an Aspiring DevOps Engineer,<br>
+💻 and a Tech Enthusiast.
 </p>
 </div>
 
