@@ -17,7 +17,6 @@
 
 </div>
 
-<br clear="right"/>
 
 ###
 
