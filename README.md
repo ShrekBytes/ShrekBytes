@@ -10,7 +10,7 @@ I am...<br>
 🎮 a gamer,<br>
 👾 a memer,<br>
 ⚙️ an aspiring DevOps Engineer,<br>
-💻 and a Tech Enthusiast.
+💻 & a Tech Enthusiast.
 </p>
 </div>
 
