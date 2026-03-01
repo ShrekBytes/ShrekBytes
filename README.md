@@ -5,14 +5,23 @@
 ###
 
 <div align="left">
-<p>
-I am...<br>
-🎮 a gamer<br>
-👾 a memer<br>
-⚙️ a DevOps Engineer<br>
-💻 a Tech Enthusiast
-  <!-- DevOps | Backend | QA & Security -->
+
+  <p>
+⚙️ DevOps Engineer<br>
+💻 Backend Developer
 </p>
+<p>
+🎮 Gamer | 👾 Memer | 💻 Tech Enthusiast
+</p>
+
+<!-- 
+<p>
+⚙️ DevOps Engineer | 💻 Backend<br>
+💻 Backend | QA & Security<br>
+🎮 Gamer | 👾 Memer | 💻 Tech Enthusiast
+</p>
+-->
+
 </div>
 
 <br />
