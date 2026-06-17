@@ -5,7 +5,7 @@
 <div align="left">
 
 💻 Software Engineer<br><br>
-⚙️ Python • Backend • DevOps<br><br>
+⚙️ Python_ Backend_ DevOps_<br><br>
 🎮 Gamer&nbsp;/&nbsp;👾 Memer&nbsp;/&nbsp;💡 Tech Enthusiast<br>
 
 </div>
