@@ -4,8 +4,8 @@
 
 <div align="left">
 
-⚙️ DevOps Engineer<br><br>
-💻 Backend Developer<br><br>
+💻 Software Engineer<br><br>
+⚙️ Python • Backend • DevOps<br><br>
 🎮 Gamer&nbsp;/&nbsp;👾 Memer&nbsp;/&nbsp;💡 Tech Enthusiast<br>
 
 </div>
