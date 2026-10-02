@@ -2,18 +2,20 @@
 
 <img align="right" height="150" src="images/gif/typing.gif" />
 
-```console
-$ whoami
-shrekbytes
-
-$ fastfetch --short
-shrek@bytes
------------
-role      Software Engineer
-stack     Python • Backend • DevOps
-interests games • memes • tech
-```
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 150">
+  <rect width="420" height="150" rx="8" fill="#0d1117"/>
+  <g font-family="ui-monospace,Consolas,monospace" font-size="14">
+    <text x="16" y="28" fill="#7ee787">$ <tspan fill="#c9d1d9">whoami</tspan></text>
+    <text x="16" y="48" fill="#c9d1d9">shrekbytes</text>
+    <text x="16" y="78" fill="#7ee787">$ <tspan fill="#c9d1d9">fastfetch --short</tspan></text>
+    <text x="16" y="100" fill="#58a6ff">role</text>
+    <text x="110" y="100" fill="#c9d1d9">Software Engineer</text>
+    <text x="16" y="120" fill="#58a6ff">stack</text>
+    <text x="110" y="120" fill="#c9d1d9">Python • Backend • DevOps</text>
+    <text x="16" y="140" fill="#58a6ff">interests</text>
+    <text x="110" y="140" fill="#c9d1d9">games • memes • tech</text>
+  </g>
+</svg>
 <div align="left">
 
 [![Email](https://img.shields.io/badge/shrekbytes@duck.com-2f3f4f?style=for-the-badge&logo=gmail&logoColor=red)](mailto:shrekbytes@duck.com)
