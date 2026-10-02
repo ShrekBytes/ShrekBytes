@@ -4,12 +4,14 @@
 
 <div align="left">
 
-<code>$ echo $ROLE</code><br>
-Software Engineer<br><br>
-<code>$ cat /etc/stack</code><br>
-Python · Backend · DevOps<br><br>
-<code>$ cat /etc/interests</code><br>
-Gaming · Memes · Tech Enthusiast
+<div align="left">
+
+<code>shrekbytes@abyss:~$ neofetch --custom</code><br><br>
+<code>ROLE</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Engineer<br>
+<code>STACK</code>&nbsp;&nbsp;&nbsp;&nbsp; Python / Backend / DevOps<br>
+<code>INTERESTS</code> Gaming / Memes / Tech
+
+</div>
 
 </div>
 
