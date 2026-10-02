@@ -2,12 +2,14 @@
 
 <img align="right" height="150" src="images/gif/typing.gif" />
 
-shrekbytes@abyss:~$ ./about.sh
-┌─ PROFILE ──────────────────
-│  ROLE      Software Engineer
-│  STACK     Python / Backend / DevOps
-│  INTERESTS Gaming / Memes / Tech
-└───────────────────────────
+<div align="left">
+<code>shrekbytes@abyss:~$ ./about.sh</code><br>
+<code>┌─ PROFILE ─────────────────</code><br>
+<code>│</code>&nbsp; <code>ROLE</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Engineer<br>
+<code>│</code>&nbsp; <code>STACK</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python / Backend / DevOps<br>
+<code>│</code>&nbsp; <code>INTERESTS</code>&nbsp; Gaming / Memes / Tech<br>
+<code>└───────────────────────────</code>
+</div>
 
 <br>
 <div align="left">
