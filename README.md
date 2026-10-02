@@ -10,6 +10,7 @@
 <code>└─ INTERESTS</code>&nbsp; Gaming / Memes / Tech
 </div>
 
+<br>
 <div align="left">
 
 [![Email](https://img.shields.io/badge/shrekbytes@duck.com-2f3f4f?style=for-the-badge&logo=gmail&logoColor=red)](mailto:shrekbytes@duck.com)
