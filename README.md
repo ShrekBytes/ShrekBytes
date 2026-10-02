@@ -4,9 +4,9 @@
 <div align="left">
 shrekbytes@abyss:~$ ./about.sh<br>
 │<br>
-│&nbsp; role&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → Software Engineer<br>
-│&nbsp; stack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → Python / Backend / DevOps<br>
-│&nbsp; interests&nbsp; → Gaming / Memes / Tech<br>
+│&nbsp; role&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software Engineer<br>
+│&nbsp; stack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python / Backend / DevOps<br>
+│&nbsp; interests&nbsp;Gaming / Memes / Tech<br>
 │<br>
 └─ exit 0
 </div>
