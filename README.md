@@ -1,14 +1,13 @@
 <h2 align="center">.about( )</h2>
 
 <img align="right" height="150" src="images/gif/typing.gif" />
-
 <div align="left">
-<code>shrekbytes@abyss:~$ ./about.sh</code><br>
-┌─ PROFILE ─────────────────<br>
-│&nbsp; <code>ROLE</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Engineer<br>
-│&nbsp; <code>STACK</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python / Backend / DevOps<br>
-│&nbsp; <code>INTERESTS</code>&nbsp; Gaming / Memes / Tech<br>
-└───────────────────────────
+<code>shrekbytes@abyss:~$ neofetch</code><br>
+<code>┌─[ PROFILE ]</code><br>
+<code>│</code><br>
+<code>├── role</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Engineer<br>
+<code>├── stack</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python / Backend / DevOps<br>
+<code>└── interests</code>&nbsp; Gaming / Memes / Tech
 </div>
 
 <br>
