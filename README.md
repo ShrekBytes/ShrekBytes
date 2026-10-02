@@ -1,6 +1,15 @@
 <h2 align="center">.about( )</h2>
 
 <img align="right" height="150" src="images/gif/typing.gif" />
+
+shrekbytes@abyss:~$ ./about.sh
+│
+│  role       → Software Engineer
+│  stack      → Python / Backend / DevOps
+│  interests  → Gaming / Memes / Tech
+│
+└─ exit 0
+
 <div align="left">
 <code>┌─[shrekbytes@abyss]</code><br>
 <code>│</code><br>
