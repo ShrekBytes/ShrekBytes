@@ -2,15 +2,18 @@
 
 <img align="right" height="150" src="images/gif/typing.gif" />
 
-<div align="left">
+```console
+$ whoami
+shrekbytes
 
-💻 Software Engineer<br><br>
-⚙️ Python&nbsp;&nbsp;•&nbsp;&nbsp;Backend&nbsp;&nbsp;•&nbsp;&nbsp;DevOps<br><br>
-🎮 Gamer&nbsp;/&nbsp;👾 Memer&nbsp;/&nbsp;💡 Tech Enthusiast
+$ fastfetch --short
+shrek@bytes
+-----------
+role      Software Engineer
+stack     Python • Backend • DevOps
+interests games • memes • tech
+```
 
-</div>
-
-<br>
 <div align="left">
 
 [![Email](https://img.shields.io/badge/shrekbytes@duck.com-2f3f4f?style=for-the-badge&logo=gmail&logoColor=red)](mailto:shrekbytes@duck.com)
