@@ -2,13 +2,12 @@
 
 <img align="right" height="150" src="images/gif/typing.gif" />
 
-<div align="left">
-<code>shrekbytes@abyss:~$ neofetch --custom</code><br>
-<code>│</code><br>
-<code>├─ ROLE</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Engineer<br>
-<code>├─ STACK</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python / Backend / DevOps<br>
-<code>└─ INTERESTS</code>&nbsp; Gaming / Memes / Tech
-</div>
+shrekbytes@abyss:~$ ./about.sh
+┌─ PROFILE ──────────────────
+│  ROLE      Software Engineer
+│  STACK     Python / Backend / DevOps
+│  INTERESTS Gaming / Memes / Tech
+└───────────────────────────
 
 <br>
 <div align="left">
