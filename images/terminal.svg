@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 212"><defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 5 470 212"><defs>
 <clipPath id="c1"><rect x="24" y="6" width="0" height="30"><animate attributeName="width" calcMode="discrete" values="0;9.6;19.2;28.8;38.4;48;57.6;57.6" keyTimes="0;0.119;0.1333;0.1476;0.1619;0.1762;0.1905;1" dur="2.1s" begin="0" fill="freeze"/></rect></clipPath>
 <clipPath id="c2"><rect x="24" y="66" width="0" height="30"><animate attributeName="width" calcMode="discrete" values="0;9.6;19.2;28.8;38.4;48;57.6;67.2;76.8;86.4;86.4" keyTimes="0;0.4048;0.419;0.4333;0.4476;0.4619;0.4762;0.4905;0.5048;0.519;1" dur="2.1s" begin="0" fill="freeze"/></rect></clipPath>
 </defs>
