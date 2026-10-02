@@ -27,6 +27,8 @@
     height="167"
     alt="stats graph"
   />
+</div>
+
 ###
 
 <div align="center">
