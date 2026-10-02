@@ -8,6 +8,9 @@
 ⚙️ Python&nbsp;&nbsp;•&nbsp;&nbsp;Backend&nbsp;&nbsp;•&nbsp;&nbsp;DevOps<br><br>
 🎮 Gamer&nbsp;/&nbsp;👾 Memer&nbsp;/&nbsp;💡 Tech Enthusiast<br>
 
+role python, backend, devlops;
+interest games, memes, tech;
+
 </div>
 
 <div align="left">
