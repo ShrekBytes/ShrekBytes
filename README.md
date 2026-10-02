@@ -1,15 +1,14 @@
 <h2 align="center">.about( )</h2>
 
 <img align="right" height="150" src="images/gif/typing.gif" />
-
 <div align="left">
-<code>shrekbytes@abyss:~$ ./about.sh</code><br>
-<code>│</code><br>
-<code>│  role</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Engineer<br>
-<code>│  stack</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python / Backend / DevOps<br>
-<code>│  interests</code>&nbsp; → Gaming / Memes / Tech<br>
-<code>│</code><br>
-<code>└─ exit 0</code>
+shrekbytes@abyss:~$ ./about.sh<br>
+│<br>
+│&nbsp; role&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → Software Engineer<br>
+│&nbsp; stack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → Python / Backend / DevOps<br>
+│&nbsp; interests&nbsp; → Gaming / Memes / Tech<br>
+│<br>
+└─ exit 0
 </div>
 
 <br>
