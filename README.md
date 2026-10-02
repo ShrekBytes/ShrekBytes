@@ -9,13 +9,13 @@
 🎮 Gamer&nbsp;/&nbsp;👾 Memer&nbsp;/&nbsp;💡 Tech Enthusiast<br>
 
 $ id -un<br>
-Software Engineer<br><br>
+Software Engineer<br>
 
 $ cat /etc/stack<br>
-Python · Backend · DevOps<br><br>
+Python · Backend · DevOps<br>
 
 $ cat /etc/interests<br>
-Gaming · Memes · Tech<br><br>
+Gaming · Memes · Tech<br>
 
 </div>
 
