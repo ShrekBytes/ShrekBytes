@@ -5,9 +5,9 @@
 <div align="left">
 <code>shrekbytes@abyss:~$ ./about.sh</code><br>
 <code>│</code><br>
-<code>│  role&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → Software Engineer<br></code>
-<code>│  stack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → Python / Backend / DevOps<br></code>
-<code>│  interests&nbsp; → Gaming / Memes / Tech<br></code>
+<code>│  role&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → Software Engineer<br></code><br>
+<code>│  stack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; → Python / Backend / DevOps</code><br>
+<code>│  interests&nbsp; → Gaming / Memes / Tech<br></code><br>
 <code>│</code><br>
 <code>└─ exit 0</code>
 </div>
