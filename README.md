@@ -4,20 +4,12 @@
 
 <div align="left">
 
-💻 Software Engineer<br><br>
-⚙️ Python&nbsp;&nbsp;•&nbsp;&nbsp;Backend&nbsp;&nbsp;•&nbsp;&nbsp;DevOps<br><br>
-🎮 Gamer&nbsp;/&nbsp;👾 Memer&nbsp;/&nbsp;💡 Tech Enthusiast<br>
-
-<pre>
-<span style="color:#7ee787">$</span> <span style="color:#79c0ff">id -un</span>
-Software Engineer
-
-<span style="color:#7ee787">$</span> <span style="color:#79c0ff">cat /etc/stack</span>
-Python · Backend · DevOps
-
-<span style="color:#7ee787">$</span> <span style="color:#79c0ff">cat /etc/interests</span>
+<code>$ echo $ROLE</code><br>
+Software Engineer<br><br>
+<code>$ cat /etc/stack</code><br>
+Python · Backend · DevOps<br><br>
+<code>$ cat /etc/interests</code><br>
 Gaming · Memes · Tech Enthusiast
-</pre>
 
 </div>
 
