@@ -2,8 +2,7 @@
 
 <img align="right" height="150" src="images/gif/typing.gif" />
 <div align="left">
-<code>shrekbytes@abyss:~$ neofetch</code><br>
-<code>┌─[ PROFILE ]</code><br>
+<code>┌─[ shrekbytes@abyss ]</code><br>
 <code>│</code><br>
 <code>├── role</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Engineer<br>
 <code>├── stack</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python / Backend / DevOps<br>
