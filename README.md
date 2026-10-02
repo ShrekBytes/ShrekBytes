@@ -8,14 +8,14 @@
 ⚙️ Python&nbsp;&nbsp;•&nbsp;&nbsp;Backend&nbsp;&nbsp;•&nbsp;&nbsp;DevOps<br><br>
 🎮 Gamer&nbsp;/&nbsp;👾 Memer&nbsp;/&nbsp;💡 Tech Enthusiast<br>
 
-$ id -un
-Software Engineer
+$ id -un<br>
+Software Engineer<br><br>
 
-$ cat /etc/stack
-Python · Backend · DevOps
+$ cat /etc/stack<br>
+Python · Backend · DevOps<br><br>
 
-$ cat /etc/interests
-Gaming · Memes · Tech
+$ cat /etc/interests<br>
+Gaming · Memes · Tech<br><br>
 
 </div>
 
