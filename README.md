@@ -4,11 +4,11 @@
 
 <div align="left">
 <code>shrekbytes@abyss:~$ ./about.sh</code><br>
-<code>┌─ PROFILE ─────────────────</code><br>
-<code>│</code>&nbsp; <code>ROLE</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Engineer<br>
-<code>│</code>&nbsp; <code>STACK</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python / Backend / DevOps<br>
-<code>│</code>&nbsp; <code>INTERESTS</code>&nbsp; Gaming / Memes / Tech<br>
-<code>└───────────────────────────</code>
+┌─ PROFILE ─────────────────<br>
+│&nbsp; <code>ROLE</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Engineer<br>
+│&nbsp; <code>STACK</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python / Backend / DevOps<br>
+│&nbsp; <code>INTERESTS</code>&nbsp; Gaming / Memes / Tech<br>
+└───────────────────────────
 </div>
 
 <br>
