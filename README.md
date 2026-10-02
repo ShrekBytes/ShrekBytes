@@ -2,9 +2,9 @@
 
 <img align="right" height="150" src="images/gif/typing.gif" />
 
-<img src="images/terminal.svg" width="420" alt="whoami: Software Engineer, Python, Backend, DevOps, games, memes, tech"/>
-
 <div align="left">
+
+<img src="images/terminal.svg" width="420" alt="whoami: Software Engineer, Python, Backend, DevOps, games, memes, tech"/>
 
 [![Email](https://img.shields.io/badge/shrekbytes@duck.com-2f3f4f?style=for-the-badge&logo=gmail&logoColor=red)](mailto:shrekbytes@duck.com)
 [![Portfolio](https://img.shields.io/badge/ShrekBytes.dev-2F4F4F?style=for-the-badge&logo=sharp&logoColor=black)](https://shrekbytes.dev)
