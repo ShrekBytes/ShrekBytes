@@ -3,16 +3,11 @@
 <img align="right" height="150" src="images/gif/typing.gif" />
 
 <div align="left">
-
-<div align="left">
-
-<code>shrekbytes@abyss:~$ neofetch --custom</code><br><br>
-<code>ROLE</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Engineer<br>
-<code>STACK</code>&nbsp;&nbsp;&nbsp;&nbsp; Python / Backend / DevOps<br>
-<code>INTERESTS</code> Gaming / Memes / Tech
-
-</div>
-
+<code>shrekbytes@abyss:~$ neofetch --custom</code><br>
+<code>│</code><br>
+<code>├─ ROLE</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Engineer<br>
+<code>├─ STACK</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python / Backend / DevOps<br>
+<code>└─ INTERESTS</code>&nbsp; Gaming / Memes / Tech
 </div>
 
 <div align="left">
