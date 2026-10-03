@@ -16,12 +16,12 @@
 <g opacity="0"><set attributeName="opacity" to="1" begin="1.5s" fill="freeze"/>
 <path d="M10 124V150M10 137H22" stroke="#6e7681" stroke-width="1.5" fill="none"/>
 <text x="28" y="142" fill="#a371f7" font-weight="bold">expertise</text>
-<text x="140" y="142" fill="#7d8590">Python <tspan fill="#6e7681">::</tspan> Backend <tspan fill="#6e7681">::</tspan> DevOps</text>
+<text x="140" y="142" fill="#7d8590">Python <tspan fill="#6e7681">,</tspan> Backend <tspan fill="#6e7681">,</tspan> DevOps</text>
 </g>
 <g opacity="0"><set attributeName="opacity" to="1" begin="1.65s" fill="freeze"/>
 <path d="M10 150V163H22" stroke="#6e7681" stroke-width="1.5" fill="none"/>
 <text x="28" y="168" fill="#a371f7" font-weight="bold">off_duty</text>
-<text x="140" y="168" fill="#7d8590">Gaming <tspan fill="#6e7681">::</tspan> Memes <tspan fill="#6e7681">::</tspan> Tech Enthusiast</text>
+<text x="140" y="168" fill="#7d8590">Gaming <tspan fill="#6e7681">,</tspan> Memes <tspan fill="#6e7681">,</tspan> Tech Enthusiast</text>
 </g>
 <text x="4" y="202" fill="#2ea043" opacity="0">$<set attributeName="opacity" to="1" begin="1.85s" fill="freeze"/></text>
 <rect x="24" y="15" width="9" height="17" fill="#7d8590">
