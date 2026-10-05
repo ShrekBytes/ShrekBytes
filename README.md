@@ -6,7 +6,7 @@
 
 <img src="images/terminal.svg" width="420" alt="whoami: Software Engineer, Python, Backend, DevOps, games, memes, tech"/>
 
-[![Email](https://img.shields.io/badge/walid@shrekbytes.dev-2f3f4f?style=for-the-badge&logo=maildotru&logoColor=red)](mailto:walid@shrekbytes.dev)
+[![Email](https://img.shields.io/badge/walid@shrekbytes.dev-2f3f4f?style=for-the-badge&logo=gmail&logoColor=red)](mailto:walid@shrekbytes.dev)
 [![Portfolio](https://img.shields.io/badge/ShrekBytes.dev-2F4F4F?style=for-the-badge&logo=sharp&logoColor=black)](https://shrekbytes.dev)
 
 </div>
